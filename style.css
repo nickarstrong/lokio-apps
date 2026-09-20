@@ -27,3 +27,5 @@ footer { color: var(--muted); font-size: 13px; margin-top: 48px; }
        text-decoration: none; color: var(--text); }
 .app b { display: block; font-size: 17px; margin-bottom: 4px; }
 .app span { color: var(--muted); font-size: 14px; }
+.app.lokio { border-color: #FBEC5D; }
+.app.lokio b { color: #FBEC5D; }
