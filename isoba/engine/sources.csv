@@ -1,0 +1,40 @@
+id,file,url,freq,lag_days,license,use
+UNRATE,UNRATE.csv,fred,M,36,BLS · public domain,top
+GACDFSA066MSFRBPHI,GACDFSA066MSFRBPHI.csv,fred,M,20,Philadelphia Fed · free with attribution,top
+CPILFESL,CPILFESL.csv,fred,M,45,BLS · public domain,top;recession;dsi
+T10Y2Y,T10Y2Y.csv,fred,D,1,US Treasury via FRED · public domain,top;dsi
+T10Y3M,T10Y3M.csv,fred,D,1,US Treasury via FRED · public domain,top;recession
+NCBEILQ027S,NCBEILQ027S.csv,fred,Q,160,Fed Z.1 · public domain,top
+GDP,GDP.csv,fred,Q,160,BEA · public domain,top
+NFCICREDIT,NFCICREDIT.csv,fred,W,7,Chicago Fed · free with attribution,crisis
+HQMCB10YR,HQMCB10YR.csv,fred,M,45,US Treasury HQM · public domain,crisis;dsi
+DGS10,DGS10.csv,fred,D,1,US Treasury · public domain,crisis;dsi
+RIFSPPNA2P2D90NB,RIFSPPNA2P2D90NB.csv,fred,D,1,Fed CP rates · public domain,crisis;dsi
+DCPN3M,DCPN3M.csv,fred,D,1,Fed CP rates · public domain,crisis;dsi
+KCFSI,KCFSI.csv,fred,M,45,Kansas City Fed · free with attribution,crisis
+DRTSCILM,DRTSCILM.csv,fred,Q,45,Fed SLOOS · public domain,crisis;recession
+ICSA,ICSA.csv,fred,W,5,DOL · public domain,crisis;dsi
+CCSA,CCSA.csv,fred,W,12,DOL · public domain,crisis;recession
+SAHMREALTIME,SAHMREALTIME.csv,fred,M,36,FRED/Sahm · public domain,crisis;dsi
+CFNAI,CFNAI.csv,fred,M,55,Chicago Fed · free with attribution,crisis
+NEWORDER,NEWORDER.csv,fred,M,65,Census · public domain,crisis
+PERMIT,PERMIT.csv,fred,M,48,Census · public domain,crisis;recession
+DFF,DFF.csv,fred,D,1,Fed H.15 · public domain,recession;dsi;fed
+DCOILWTICO,DCOILWTICO.csv,fred,D,1,EIA · public domain,context;dsi
+DTWEXBGS,DTWEXBGS.csv,fred,D,7,Fed H.10 · public domain,context;dsi;fed
+DTWEXB,DTWEXB.csv,fred,D,7,Fed H.10 (to 2019) · public domain,context;dsi
+QCNPAM770A,QCNPAM770A.csv,fred,Q,160,BIS via FRED · free with attribution,context
+DTWEXEMEGS,DTWEXEMEGS.csv,fred,D,7,Fed H.10 · public domain,dsi
+DTWEXO,DTWEXO.csv,fred,D,7,Fed H.10 (to 2019) · public domain,dsi
+DFII10,DFII10.csv,fred,D,1,US Treasury · public domain,dsi
+T5YIE,T5YIE.csv,fred,D,1,US Treasury via FRED · public domain,dsi
+DCPF3M,DCPF3M.csv,fred,D,1,Fed CP rates · public domain,dsi
+DTB3,DTB3.csv,fred,D,1,Fed H.15 · public domain,dsi
+WALCL,WALCL.csv,fred,W,2,Fed H.4.1 · public domain,dsi
+NFCI,NFCI.csv,fred,W,7,Chicago Fed · free with attribution,dsi
+M2SL,M2SL.csv,fred,M,55,Fed H.6 · public domain,dsi
+PALLFNFINDEXM,PALLFNFINDEXM.csv,fred,M,100,IMF via FRED · public domain,dsi
+USEPUINDXD,USEPUINDXD.csv,fred,D,1,Baker-Bloom-Davis via FRED · free with attribution,dsi
+GPR,gpr_daily.xls,gpr,D,7,Caldara-Iacoviello GPR · CC BY,dsi
+NASDAQCOM,NASDAQCOM.csv,fred,D,1,Nasdaq © · counts outcomes for «Что впереди» only · never shown,odds
+USREC,USREC.csv,fred,M,0,NBER via FRED · public domain,odds
