@@ -11,7 +11,7 @@
     style.css         один стиль на всё
     heic/index.html   приложение
     heic/privacy.html политика, EN + RU
-    isoba/data.json   данные приложения Isoba, раз в день (.github/workflows/isoba-data.yml,
-                      движок — isoba/engine/)
+    isoba/data.json   данные приложения Isoba (+ history.json), раз в день; коммитит workflow `data`
+                      закрытого репо isoba ключом развёртывания «isoba-data». Код движка здесь не лежит.
 
 Pages: Settings → Pages → Deploy from a branch → main → / (root).
