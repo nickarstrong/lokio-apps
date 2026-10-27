@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Isoba Method</title>
+<meta name="description" content="How Isoba works: what it measures, where the data comes from, how it was tested on every working day since 1990, and what it cannot catch.">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<div class="wrap">
+<p class="date"><a href="./">&larr; Isoba</a></p>
+
+<h1>Isoba Method</h1>
+<p class="date">White paper &middot; method fixed 16 October 2026 &middot; this page updated 27 October 2026</p>
+
+<h2>1. What Isoba measures</h2>
+<p>Isoba turns public official data into three readings, recalculated every working day:</p>
+<ul>
+  <li><b>Dollar index (DSI), 0&ndash;100</b> &mdash; where the dollar system stands: how tight dollar money is for the world. It is a coordinate, not an exchange-rate forecast.</li>
+  <li><b>Crisis meter, 0&ndash;100</b> &mdash; stress already present in credit and funding markets, amplified when the real economy is weak. Without credit stress it stays at 50 or below by design.</li>
+  <li><b>What&rsquo;s ahead</b> &mdash; how often, in the past, a 20% fall of the S&amp;P&nbsp;500 or a US recession followed days that looked like today. These are historical frequencies with the number of independent episodes behind them, not predictions.</li>
+</ul>
+
+<h2>2. Eight filters</h2>
+<p>The readings are built from eight filters. Each compares today with its own history since 1990, so 0 is the calmest and 100 the most extreme it has been.</p>
+<ul>
+  <li>Liquidity &mdash; real rates, curve, central bank balance sheet, money growth</li>
+  <li>Funding &mdash; rate volatility, commercial paper risk, short-term funding</li>
+  <li>Dollar strength &mdash; level and momentum of the trade-weighted dollar, real yields</li>
+  <li>Prices &mdash; oil, commodities, inflation expectations</li>
+  <li>Labor &mdash; jobless claims, unemployment trend</li>
+  <li>Uncertainty &mdash; economic policy and geopolitical risk indices</li>
+  <li>Emerging markets &mdash; the dollar against emerging-market currencies</li>
+  <li>Credit &mdash; corporate credit spreads, excess bond premium</li>
+</ul>
+<p>Weights and formulas are not published. Everything else &mdash; inputs, tests and every daily result &mdash; is open.</p>
+
+<h2>3. Data</h2>
+<p>Only data that anyone may use, taken directly from the agencies that publish it:</p>
+<ul>
+  <li>Federal Reserve Board &mdash; H.15 rates, H.10 dollar, H.4.1 balance sheet, H.6 money, G.17 industry, commercial paper, SLOOS, Z.1, excess bond premium</li>
+  <li>US Treasury &mdash; HQM corporate bond yields</li>
+  <li>Bureau of Labor Statistics and Department of Labor &mdash; unemployment, prices, jobless claims</li>
+  <li>Bureau of Economic Analysis, Census Bureau &mdash; GDP, new orders, building permits</li>
+  <li>Energy Information Administration &mdash; oil</li>
+  <li>Baker&ndash;Bloom&ndash;Davis Economic Policy Uncertainty (CC&nbsp;BY&nbsp;4.0) and Caldara&ndash;Iacoviello Geopolitical Risk (CC&nbsp;BY)</li>
+</ul>
+<p>US government data is public domain. No paid feeds, no data resellers, no private market data.</p>
+
+<h2>4. How it was tested</h2>
+<p>Isoba was run through every working day since 1990 as if it were live: each day uses only data that had already been published on that day. A separate check recomputes everything on data cut at 31&nbsp;December 2019; every earlier day must match exactly, so later data cannot leak into the past.</p>
+<ul>
+  <li>16 crises since 1990: the crisis meter rose in advance 4 times, was already high in the same wave 3 times, rose at the moment 4 times, was late once, and missed 4 short shocks without credit stress (2010, 2011, 2015, the 2025 tariffs).</li>
+  <li>Outside crises it showed &ldquo;tension&rdquo; on 12% of days.</li>
+  <li>Recession risk was high 17, 12 and 6 months before the 2001, 2008 and 2020 recessions, with a false alarm in 2023&ndash;2024.</li>
+</ul>
+<p>The full table by event and by year is in the app, screen &ldquo;Tested on history&rdquo;.</p>
+
+<h2>5. What Isoba cannot catch</h2>
+<ul>
+  <li>Sudden shocks that do not pass through credit and funding (a tariff announcement, a flash crash) &mdash; the meter sees them late or not at all.</li>
+  <li>Timing. A high reading says stress is here, not when markets will fall.</li>
+  <li>Anything outside the US dollar system: local crises, single stocks, crypto prices.</li>
+  <li>Data revisions and publication delays: some series come weekly or monthly, so the newest days lean on fewer inputs.</li>
+</ul>
+
+<h2>6. Forward test and open record</h2>
+<p>The method was fixed on 16&nbsp;October 2026. From that day each result is saved as a dated public record in git: <a href="https://github.com/nickarstrong/lokio-apps/commits/main/isoba/data.json">history of isoba/data.json</a>. It cannot be changed after the fact.</p>
+<p>Gap in the record: no public records were saved for 24&ndash;26 October 2026 because our automated runner was out of build minutes. The method did not change; the days are covered in the history file of the next record.</p>
+
+<p>Not investment advice. Isoba describes where things stand and what happened in similar periods; it does not tell anyone to buy or sell.</p>
+
+<footer>
+  <a href="mailto:hello&#64;lokio.org">hello&#64;lokio.org</a> &middot; &copy; 2026 LOKIO
+</footer>
+</div>
+</body>
+</html>
