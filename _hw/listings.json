@@ -1,0 +1,1007 @@
+{
+ "aloud": {
+  "name": "Read Aloud: Text to Speech",
+  "short": "Listen to books, PDFs and articles offline. Sleep timer, widget.",
+  "full": "Read Aloud turns any text into speech right on your phone. Open a book, a PDF or an article and listen — with the screen off, in another app, on the bus or falling asleep. No internet needed: the voice of your phone reads everything offline.\n\nOPEN ANYTHING\n\nBooks and documents: EPUB, FB2, PDF and TXT (Russian Windows-1251 text files too).\nPaste any text, or Share an article from the browser, mail or a messenger — it is read at once.\nSelect text in any app → Read Aloud in the selection menu.\n\nLISTEN THE WAY YOU READ\n\nThe phrase being read is highlighted and the page turns by itself.\nTap any phrase to read from there. Skip a phrase back or forward.\nSpeed from 0.5× to 3×. Every voice installed on your phone, in every language.\nRemembers your place in every book — the home screen offers to go on from the same phrase.\n\nREAD IN THE BACKGROUND\n\nKeeps reading with the screen locked or in another app. Pause from the notification or with your headphone buttons. A call pauses the reading.\n\nFALL ASLEEP TO A BOOK\n\nSleep timer: 15 or 30 minutes, the end of the chapter, or your own time from 1 minute to 10 hours.\n\nFINISHED? TAKE IT WITH YOU\n\nAt the end of a text the app offers «Save audio» right there: the whole text as an audio file (M4A) in Music — for the car, the player or a message to mom. Pass it on in one tap: to MP3 in Video to MP3, chapters joined in Merge Audio.\n\nEVERY EVENING, ON ITS OWN\n\nWhen the sleep timer goes off, one tap turns the same time into a schedule: every evening the book starts where you stopped and turns off on time.\n\nFREE\n\nAll formats, background reading, sleep timer, your place, every voice. No minute limits, no ads, no account.\n\nALL INCLUDED\n\nListen in the car and send it — save a text or a chapter as an audio file.\nEvery evening, on its own — a reading schedule.\nListen over any app — a floating button over YouTube, a feed or a browser: play, pause, sleep timer.\nNames and abbreviations said right — a pronunciation dictionary.\nAlso: home screen widget.\nListening itself stays free, with no minute limits. Want to say thanks? Leave a tip from the menu — it unlocks nothing.\n\nPRIVATE BY DESIGN\n\nThe text is read by the speech engine of your phone. The app has no internet permission, so it cannot upload your files or text — they leave the phone only when you share them.\n\nThe app speaks 25 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська, Oʻzbekcha, Čeština, Română.",
+  "len": 2578,
+  "flags": [
+   "Pro"
+  ],
+  "perms": [
+   "FOREGROUND_SERVICE",
+   "FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+   "SYSTEM_ALERT_WINDOW",
+   "SCHEDULE_EXACT_ALARM",
+   "RECEIVE_BOOT_COMPLETED",
+   "POST_NOTIFICATIONS"
+  ],
+  "pkg": "org.lokio.aloud",
+  "slug": "aloud",
+  "shots": [
+   "C:/HEIC-batch/aloud/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/aloud/_store/google/screenshots/02-listen-1080x1920.jpg",
+   "C:/HEIC-batch/aloud/_store/google/screenshots/03-sleep-1080x1920.jpg",
+   "C:/HEIC-batch/aloud/_store/google/screenshots/04-video-1080x1920.jpg",
+   "C:/HEIC-batch/aloud/_store/google/screenshots/05-button-1080x1920.jpg",
+   "C:/HEIC-batch/aloud/_store/google/screenshots/06-open-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/aloud/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Audio"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "clients": {
+  "name": "Client Database & Tracker",
+  "short": "Clients, contracts, deadlines and documents in one place. Offline, no account.",
+  "full": "Clients is a client database for accountants, lawyers, tutors and anyone who works with regular clients. One card per client shows the whole picture at once: tax ID, contracts, terms, deadlines, documents and money. What is due comes first.\n\nALL CLIENTS ON ONE SCREEN\n\nEach client is one card that grows with what you write in: avatar or logo, tax ID, contract type and number, sum and currency, the term \"from — to\" with a bar, or open-ended.\nThree tiles on top: Due soon · Missing docs · Money. Tap a tile — the list is filtered.\nSearch by name, tax ID, contract number or phone.\n\nYOUR WAY, ANY COUNTRY\n\nYou name the contract types yourself — service agreement, retainer, lease, anything. Any currency, or none.\nCards are built from blocks: text, number or code, date, deadline with a reminder, sum, percent, checklist, payment by month, contact.\nReady cards: company details, contract, documents for the period, contact, note, court case, lease, tax, my fee, liquidation, or your own card.\nA comment for yourself on every client: what is where, whom to send it to.\n\nDEADLINES THAT DO NOT SLIP\n\nA deadline reminds you N days before. Repeats monthly, quarterly or yearly — mark it done and the next one is set.\nA notification on the phone once a day, only when something is due.\nContract ends — extend it in one tap. Deadlines to your calendar (.ics).\n\nDOCUMENTS FROM CLIENTS\n\nA photo or a PDF in WhatsApp, Telegram or mail → Share → Clients → whose is it and which item it closes. The item is ticked by itself.\nDocuments of each client by month: open, send, remove, ZIP of the month.\n\nREMIND IN ONE TAP\n\nThe reminder text is ready: what is due and what is still missing. Send it by WhatsApp, Telegram, SMS or e-mail. When everything is collected, the button says Write instead of Remind.\n\nQUICK ACTIONS\n\nInvoice, Sign, Letter: open our Invoice, Stamp & Sign and Email Maker apps with the client details already copied.\n\nYOUR DATA STAYS ON YOUR PHONE\n\nNo account, no server, no ads. The app has no internet permission at all. Backup to a file, restore, export to Excel (CSV).\n\nFREE\n\nUp to 3 clients, all deadlines and reminders, remind and write, backup and export.\n\nALL INCLUDED\n\nUnlimited clients, documents from clients, money (contracts per month and who has not paid you), tax, my fee and liquidation cards, import from Excel.\n\n22 languages. Made by LOKIO.",
+  "len": 2362,
+  "flags": [
+   "Pro"
+  ],
+  "perms": [
+   "POST_NOTIFICATIONS",
+   "RECEIVE_BOOT_COMPLETED"
+  ],
+  "pkg": "org.lokio.clients",
+  "slug": "clients",
+  "shots": [
+   "C:/HEIC-batch/clients/_store/google/screenshots/02-glance-1080x1920.jpg",
+   "C:/HEIC-batch/clients/_store/google/screenshots/03-client-1080x1920.jpg",
+   "C:/HEIC-batch/clients/_store/google/screenshots/04-docs-1080x1920.jpg",
+   "C:/HEIC-batch/clients/_store/google/screenshots/05-remind-1080x1920.jpg",
+   "C:/HEIC-batch/clients/_store/google/screenshots/06-start-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/clients/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "Basic information",
+    "Name"
+   ],
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Business",
+   "Business software"
+  ]
+ },
+ "compress-pdf": {
+  "name": "Compress PDF — Offline, No Ads",
+  "short": "Make a PDF smaller to the size you need. Text stays sharp. Offline, no ads.",
+  "full": "Compress PDF makes a PDF smaller right on your phone — to the size you need. A form says \"up to 2 MB\" and the file weighs 14 MB? Pick the PDF, set the target, tap \"Compress and send\": it goes out already under your number. No ads, no account, no internet.\n\nONE BUTTON: COMPRESS AND SEND\n\n\"Compress and send\" compresses the PDF to your target and opens Share straight away — mail, Telegram, WhatsApp, Drive. Copies stay in Downloads › Compress PDF with \"_compressed\" in the name. Originals are not touched.\n\nTEXT STAYS TEXT\n\nOnly the pictures inside the PDF are recompressed: scans, photos, charts. Text, fonts and links stay as they are — sharp at any zoom, and you can still select and search them. A PDF that is almost all text has little to squeeze, and the app tells you so honestly.\n\nTHE RIGHT SIZE, NOT A GUESS\n\nBefore you tap, the app shows how small this file can get. Drag the slider or tap a common limit: 500 KB, 1, 2, 5, 10, 25 MB. For scans there is a \"Readable\" mark — the smallest size at which small print still reads.\n\nSEE THE PAGES\n\nEvery page large with a magnifier: pinch to zoom, swipe to the next page.\n\nNO LIMITS\n\nOne PDF at a time to any size. \"Readable\" mark for scans. Share all results at once. Open a PDF from Files, mail or Telegram with \"Open with\" or \"Share\". Light and dark theme, 22 languages. No watermark.\n\nALL INCLUDED\n\n• Photos into one PDF under the limit — the form wants \"one PDF up to 2 MB\" and you have photos of a passport or a certificate? Pick them, tap once: one PDF of exactly that size.\n• Many PDFs at once — one target for the whole stack, or each file to its own size.\n• Scan in black & white — scanned pages become crisp black and white: several times lighter, small text stays sharp.\n• Only the pages you need — tick pages on a grid, the rest stay out of the copy. Also included: send everything as one ZIP (even a single file), a password for the compressed copy, several PDFs joined into one under the limit, and a file that will not fit split into parts that do.\n\nPRIVATE BY DESIGN\n\nPDFs are processed on the phone. The app has no internet permission, so nothing can be uploaded anywhere — check it yourself in Android settings.",
+  "len": 2183,
+  "flags": [
+   "Pro",
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.pdf",
+  "slug": "pdf",
+  "shots": [
+   "C:/HEIC-batch/compress-pdf/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/compress-pdf/_store/google/screenshots/02-done-1080x1920.jpg",
+   "C:/HEIC-batch/compress-pdf/_store/google/screenshots/03-read-1080x1920.jpg",
+   "C:/HEIC-batch/compress-pdf/_store/google/screenshots/04-batch-1080x1920.jpg",
+   "C:/HEIC-batch/compress-pdf/_store/google/screenshots/05-local-1080x1920.jpg",
+   "C:/HEIC-batch/compress-pdf/_store/google/screenshots/06-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/compress-pdf/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "compress-video": {
+  "name": "Compress Video: Size Reducer",
+  "short": "Make videos smaller for chats and email. See the size first. Works offline.",
+  "full": "Compress Video makes your videos smaller — right on your phone, without internet. Pick a video, see the size before you start, done. Your videos never leave the phone.\n\nSEE THE SIZE FIRST\n\nEach quality shows the size and resolution you'll get before anything starts: High looks like the original, Normal is right for chats and mail, Small is 720p and the lightest.\n\nSTILL TOO BIG FOR WHATSAPP? FIXED ON THE SPOT\n\nWhatsApp takes 16 MB, Discord 10 MB, mail 25 MB. If the compressed video is still bigger, the app offers «Make it 16 MB» right on the Done screen: the same video, exactly under the limit.\n\nNEVER BIGGER THAN THE ORIGINAL\n\nIf a video is already compact and can't get smaller without losing quality, the app tells you so and saves nothing.\n\nFAST, ON YOUR PHONE\n\nThe phone's own video encoder does the work, so a long video doesn't take half an hour. HDR videos from new phones become regular ones that play everywhere.\n\nPLAYS EVERYWHERE\n\nThe result is an MP4 that plays in messengers, mail, the gallery and on any phone. Ready videos go to Movies / Compress Video with a clear name. Share them in one tap — or pass them on: the sound in Video to MP3, a trim in Video Cutter, speech to text in To Text.\n\nALL INCLUDED\n\nFits WhatsApp, mail and Discord — 10, 16, 25, 50 MB or your own. A frame for Reels, TikTok and Shorts — 9:16, 1:1 or 4:5. Only the part you need — start and end to a tenth of a second. Many videos at once, all of them in one archive.\nAlso: remove the sound track. No limits.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your videos. No account, no tracking.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 1888,
+  "flags": [
+   "Pro",
+   "subscri",
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.video",
+  "slug": "video",
+  "shots": [
+   "C:/HEIC-batch/compress-video/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/compress-video/_store/google/screenshots/02-size-1080x1920.jpg",
+   "C:/HEIC-batch/compress-video/_store/google/screenshots/03-done-1080x1920.jpg",
+   "C:/HEIC-batch/compress-video/_store/google/screenshots/04-fit-1080x1920.jpg",
+   "C:/HEIC-batch/compress-video/_store/google/screenshots/05-frame-1080x1920.jpg",
+   "C:/HEIC-batch/compress-video/_store/google/screenshots/06-many-1080x1920.jpg",
+   "C:/HEIC-batch/compress-video/_store/google/screenshots/07-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/compress-video/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "exif": {
+  "name": "Remove EXIF & GPS from Photos",
+  "short": "See which photos reveal where you were and send them clean. No internet.",
+  "full": "Every photo carries hidden data: where it was taken, when, on which phone, often the camera's serial number. Anyone you send it to can read it. EXIF Cleaner shows which of your photos give that away and sends them clean in one tap.\n\nSEE WHAT YOUR PHOTOS GIVE AWAY\n\nAll your photos in one grid. Photos that reveal a location are marked with a pin.\n\"What's inside\" shows exactly what is written in a photo: location, date, camera, lens, serial number, author, and even the date hidden in the file name.\n\nCLEAN AND SEND IN ONE TAP\n\nSelect every photo that reveals a location in one tap, or pick your own.\n\"Clean and send\": location, date, camera, serial numbers and author are removed, and clean copies go straight to the chat. Share them all at once.\nWhat to remove is in Settings — everything is ticked by default.\nTake a photo and send it clean: the original with the location never reaches your Gallery.\nPhotos from Telegram, Files or mail open here via \"Share\" or \"Open with\".\nCancel a long batch at any moment: the photos already cleaned stay.\n\nNO DUPLICATES, ORIGINALS UNTOUCHED\n\nOriginals are never changed. Sent copies do not pile up in your Gallery: they go to Pictures / EXIF Cleaner only when you choose to save them.\nJPG, PNG and WebP are cleaned without re-compression: every pixel stays the same.\nHEIC photos from iPhone are saved as clean JPG.\n\nPRIVATE BY DESIGN\n\nThe app has no internet permission at all. No account, no server, no analytics. Your photos physically cannot leave the phone.\n\nALL INCLUDED\n\nHide faces and the archive work once for free — you see the real result on your own photos before you pay.\n• Hide faces: faces looking at the camera are blurred on the phone, and you see the result before sending.\n• The whole batch as one ZIP: one file for mail, clients, Telegram.\n• Clean file names: photo_01.jpg instead of a name that gives away the date.\n\n22 languages, light and dark theme.",
+  "len": 1914,
+  "flags": [],
+  "perms": [
+   "READ_MEDIA_IMAGES",
+   "READ_EXTERNAL_STORAGE",
+   "ACCESS_MEDIA_LOCATION",
+   "WRITE_EXTERNAL_STORAGE"
+  ],
+  "pkg": "org.lokio.exif",
+  "slug": "exif",
+  "shots": [
+   "C:/HEIC-batch/exif/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/exif/_store/google/screenshots/02-see-1080x1920.png",
+   "C:/HEIC-batch/exif/_store/google/screenshots/03-clean-1080x1920.png",
+   "C:/HEIC-batch/exif/_store/google/screenshots/04-private-1080x1920.png",
+   "C:/HEIC-batch/exif/_store/google/screenshots/05-dark-1080x1920.png",
+   "C:/HEIC-batch/exif/_store/google/screenshots/06-languages-1080x1920.png"
+  ],
+  "icon": "C:/HEIC-batch/exif/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ],
+   [
+    "Location information",
+    "GPS location"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "jpgpdf": {
+  "name": "JPG to PDF: Image to PDF Maker",
+  "short": "Photos to one clean PDF: A4 or Letter, margins, any order. Works offline.",
+  "full": "JPG to PDF turns your photos into one clean PDF — right on your phone, without internet. Pick photos, set the order, choose the page, done. Your photos never leave the phone.\n\nPHOTOS TO ONE PDF\n\nPick photos in the gallery or Share them here from the gallery, files or a messenger — JPG, PNG, WEBP and HEIC. Every photo becomes a page. Drag to set the order, remove a photo, add more. Tap a photo to see it large.\n\nA4, LETTER OR AS THE PHOTO\n\nChoose the page: A4, Letter or the exact size of the photo. Keep the whole photo with white margins, or fill the page. Margins, orientation, quality — the live preview shows the result before you save. Landscape photos get a landscape page automatically. Or 2 or 4 photos per page: an ID card front and back on one page, receipts for an expense report.\n\nSHARP OR LIGHT\n\nHigh quality keeps small text readable for print. Standard makes a lighter file for messengers and mail.\n\nTOO HEAVY FOR A FORM? FIXED ON THE SPOT\n\nPortals and application forms often take files only up to 2 MB. If your PDF is heavier, the Done screen offers «Shrink to 2 MB» — or 200 KB, 500 KB, 1 MB: the same photos are rebuilt under the limit, ready to upload.\n\nREADY IN DOWNLOADS\n\nThe PDF goes to Downloads / JPG to PDF with a clear name. Share it, open it, print it — or pass it on in one tap: add a stamp or signature, send it by email, merge it with other PDFs.\n\nALL INCLUDED\n\nA file size limit — 200 KB, 500 KB, 1, 2 or 5 MB, or your own number exactly as the portal asks — for forms, portals and mail that won't take big files. Each photo as its own PDF, in one tap. A PDF locked with a password. Ready PDFs between your photos. Photos to PDF stays free, with no limits.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your photos. No account, no tracking.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 2078,
+  "flags": [
+   "subscri"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.jpgpdf",
+  "slug": "jpgpdf",
+  "shots": [
+   "C:/HEIC-batch/jpgpdf/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/jpgpdf/_store/google/screenshots/02-photos-1080x1920.jpg",
+   "C:/HEIC-batch/jpgpdf/_store/google/screenshots/03-page-1080x1920.jpg",
+   "C:/HEIC-batch/jpgpdf/_store/google/screenshots/04-limit-1080x1920.jpg",
+   "C:/HEIC-batch/jpgpdf/_store/google/screenshots/05-mix-1080x1920.jpg",
+   "C:/HEIC-batch/jpgpdf/_store/google/screenshots/06-lock-1080x1920.jpg",
+   "C:/HEIC-batch/jpgpdf/_store/google/screenshots/07-done-1080x1920.jpg",
+   "C:/HEIC-batch/jpgpdf/_store/google/screenshots/08-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/jpgpdf/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "mail": {
+  "name": "Email Maker & HTML Signature",
+  "short": "Branded emails and HTML signatures for Gmail, right from your phone. Offline",
+  "full": "Email Maker turns your phone into a small email studio. Set up your brand once — company, name, color, logo letters and contacts — and every email you write comes out branded: a colored header, clean text, a button with your link, a price box and a signature. Send it from your own Gmail or any mail app. No account, no ads, and no internet permission at all.\n\nWHAT IT DOES\n\nTemplates: Letter, Letterhead, Offer with a price box, and Announcement with a big headline. Switch any time — what you wrote stays.\nAn HTML signature for Gmail on the phone: copy it once and paste it at the end of any email.\nMailing list in Bcc: paste addresses or load a list from Excel or CSV — or open the table with Email Maker straight from your files. Duplicates and broken addresses are removed, recipients never see each other.\nA counter keeps you under the 500-a-day limit of a personal Gmail account.\nTips before sending: missing subject, a button without a link, CAPS, too many recipients, attachments over 25 MB — the usual reasons emails land in spam.\nAttach PDFs and photos, or share files to the app from any other app.\nLight and dark preview, so you see how the email looks in dark mode before it goes out.\nSave any email as your own template and start the next one in one tap. An example brand and email help you start in seconds.\n\nHOW SENDING WORKS\n\nTap Copy and open mail. Your mail app opens with the recipients, subject and attachments already filled in. Long-press the message field, tap Paste, send. The email goes from your own address, so replies come straight back to you.\n\nFREE\n\nNo limits on emails.\nOne brand with an HTML signature.\nThe Letter template. The Letterhead template — free when you add your Lokio page.\nMailing lists in Bcc, Excel and CSV import, the daily counter, tips before sending.\nAttachments, your own templates, light and dark preview, 22 languages.\nNo ads. No account. No \"sent from\" line.\n\nALL INCLUDED\n\n• Email with AI in a minute — one request to any AI app you use, paste the answer: subject, text, price and button are filled in.\n• Offer with a price and announcement — the Offer and Announcement templates and the email builder: add, remove and drag blocks.\n• Attachments under the mail limit — heavy photos and PDFs shrink by themselves so the email fits into 25 MB. No other app needed.\n• Several brands and mailing groups — a brand with its own signature for each business, saved client lists.\nAlso included: all colors, your own color from a palette, HEX or an image, a classic serif font, attachments as one archive.\n\nWHO IT IS FOR\n\nA café sending a wholesale offer to thirty clients. A tutor sending a price list. A job seeker sending a resume with a proper cover email. A small shop announcing a sale.\n\nPrivacy: your brand, emails and lists live only in the app on your phone. The app never sends anything itself — your mail app does, from your account.",
+  "len": 2891,
+  "flags": [
+   "Pro",
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.mail",
+  "slug": "mail",
+  "shots": [
+   "C:/HEIC-batch/mail/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/mail/_store/google/screenshots/02-html-1080x1920.jpg",
+   "C:/HEIC-batch/mail/_store/google/screenshots/03-list-1080x1920.jpg",
+   "C:/HEIC-batch/mail/_store/google/screenshots/04-blocks-1080x1920.jpg",
+   "C:/HEIC-batch/mail/_store/google/screenshots/05-color-1080x1920.jpg",
+   "C:/HEIC-batch/mail/_store/google/screenshots/06-lokio-1080x1920.jpg",
+   "C:/HEIC-batch/mail/_store/google/screenshots/07-dark-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/mail/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "Basic information",
+    "Name"
+   ],
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Business",
+   "Business software"
+  ]
+ },
+ "merge": {
+  "name": "Merge PDF: Combine & Split",
+  "short": "Merge PDFs and photos into one file, split by pages. Offline, free, no limits.",
+  "full": "Merge PDF joins PDFs and photos into one file and splits a PDF into parts — right on your phone. No internet needed: everything happens on the phone.\n\nMERGE PDFs AND PHOTOS\n\nPick several PDFs and photos, or Share them here from Files, mail or a messenger. Each file shows its first page, name and page count. Hold ≡ and drag to set the order, ✕ removes a file, Add files brings more. Every photo becomes a page. One tap — one PDF. Each file gets its own bookmark, so the merged PDF opens with a table of contents. Turn on «All pages A4» and photos and pages of any size fit neatly on A4.\n\nSPLIT A PDF\n\nEvery page as its own file. Chosen pages as one new PDF — tap the pages you need. Or ranges like 1-3, 5, 8-10 — each range becomes its own file. You see every page before you split.\n\nREADY FILES\n\nFiles are saved to Downloads / Merge PDF with clear names: report_merged.pdf, report_p3.pdf, report_1-3.pdf. Share them, open them in your PDF viewer or print them. Next steps in one tap: make the file smaller, add a stamp or signature, pull out the text.\n\nTOO HEAVY FOR EMAIL? SPLIT ON THE SPOT\n\nEmail takes attachments up to 20–25 MB, upload portals often up to 10. If your merged PDF is heavier, the Done screen offers «Split into parts up to 10 MB» — or 2, 5, 25 MB: the same file in parts, ready to send.\n\nFREE, ALWAYS\n\nMerge and split with no limits on files or pages. No account, no watermark, no sign-up.\n\nALL INCLUDED\n\n• Only the pages you need — take 1-3, 5 from one file and everything from another, in one merge.\n• Parts of the right size — split a PDF into files up to 2, 5, 10 or 25 MB, so it fits an upload portal or an email. Every part shows its size.\n• Page tools — rotate, remove and reorder pages in one PDF.\n• Passwords — open password-protected PDFs and lock your own.\n• Page numbers and a watermark across every page.\nAlso included: split every N pages, and send all parts as one ZIP.\nWant to say thanks? Leave a tip from the menu — you choose the amount. It unlocks nothing and helps make the next apps.\n\nPRIVATE BY DESIGN\n\nYour files are processed on the phone itself. The app has no internet permission, so it cannot upload your documents — they leave the phone only when you share them.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 2444,
+  "flags": [
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.merge",
+  "slug": "merge",
+  "shots": [
+   "C:/HEIC-batch/merge/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/merge/_store/google/screenshots/02-merge-1080x1920.jpg",
+   "C:/HEIC-batch/merge/_store/google/screenshots/03-order-1080x1920.jpg",
+   "C:/HEIC-batch/merge/_store/google/screenshots/04-split-1080x1920.jpg",
+   "C:/HEIC-batch/merge/_store/google/screenshots/05-files-1080x1920.jpg",
+   "C:/HEIC-batch/merge/_store/google/screenshots/07-mark-1080x1920.jpg",
+   "C:/HEIC-batch/merge/_store/google/screenshots/08-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/merge/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "merge-audio": {
+  "name": "Merge Audio: MP3 Joiner",
+  "short": "Join songs and voice notes into one MP3 with no gaps. Crossfade. Offline.",
+  "full": "Merge Audio joins songs and voice notes into one MP3 — right on your phone, without internet. No gaps between files. No watermark. Your files never leave the phone.\n\nANY FILES TOGETHER\n\nMP3, M4A, WAV, FLAC, OGG and voice notes — different formats and quality go into one file. Add as many as you like.\n\nHEAR THE JOINS BEFORE YOU SAVE\n\nThe player shows the wave around the playhead and every join with the name of the next file. Drag the wave to rewind, jump to the next or previous join, tap a file to play from its start. Drag ≡ to change the order.\n\nTOO BIG FOR WHATSAPP? FIXED ON THE SPOT\n\nTwenty voice notes or a lecture in parts easily pass 16 MB, while WhatsApp takes 16 MB and mail 25 MB. The app sees it and offers «Make it 16 MB» right on the Done screen: the same join, a smaller file.\n\nWORKS IN THE BACKGROUND\n\nJoining hundreds of files? Leave the app — the progress stays in the notification, with Cancel.\n\nNO LIMITS\n\nJoin any number of songs and voice notes back to back, MP3 192 kbps, with the player. Ready files go to Music / Merge Audio. Next in one tap: cut a ringtone in MP3 Cutter or turn speech into text in To Text.\n\nALL INCLUDED\n\nCrossfade 1–10 s — each song fades into the next, like a DJ mix. Same loudness — quiet voice notes and loud songs sound equally loud. Fits WhatsApp and mail — 16 or 25 MB, the quality is picked for you. Pause 0.5–5 s between files — for lessons and audiobooks.\nAlso: the sound of videos, quality 128 or 320 kbps, no daily limit.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your files. No account, no tracking.",
+  "len": 1634,
+  "flags": [
+   "Pro",
+   "subscri"
+  ],
+  "perms": [
+   "FOREGROUND_SERVICE",
+   "FOREGROUND_SERVICE_DATA_SYNC",
+   "FOREGROUND_SERVICE_MEDIA_PROCESSING",
+   "POST_NOTIFICATIONS"
+  ],
+  "pkg": "org.lokio.join",
+  "slug": "join",
+  "shots": [
+   "C:/HEIC-batch/merge-audio/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/merge-audio/_store/google/screenshots/02-player-1080x1920.jpg",
+   "C:/HEIC-batch/merge-audio/_store/google/screenshots/03-crossfade-1080x1920.jpg",
+   "C:/HEIC-batch/merge-audio/_store/google/screenshots/04-loudness-1080x1920.jpg",
+   "C:/HEIC-batch/merge-audio/_store/google/screenshots/05-start-1080x1920.jpg",
+   "C:/HEIC-batch/merge-audio/_store/google/screenshots/06-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/merge-audio/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Audio"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "merge-video": {
+  "name": "Merge Video: Video Joiner",
+  "short": "Join videos & photos into one MP4 for Reels, TikTok, Shorts. No watermark.",
+  "full": "Merge Video joins your videos into one MP4 — right on your phone, without internet. Vertical and horizontal clips go into one frame without stretching. No watermark. Your videos never leave the phone.\n\nANY VIDEOS TOGETHER\n\nPick as many videos as you like from the gallery at once — vertical, horizontal, from the camera or a messenger, with or without sound. The frame follows the first video; the others fit inside it whole, with bars, never stretched.\n\nWATCH IT BEFORE YOU SAVE\n\nThe player on top plays the whole merge in a row, exactly as it will be saved: every clip, every trim, the bars or the filled frame. Skip between clips with one tap. Drag ≡ to change the order, × removes a clip.\n\nREELS, TIKTOK AND SHORTS\n\nMake it 9:16, 1:1, 4:5 or 16:9 and fill the frame — no bars, the edges are trimmed around the center.\n\nPHOTOS AND VIDEOS IN ONE CLIP\n\nPut photos from the gallery between your videos — a trip, a birthday, a photo dump for Reels and TikTok. Each photo stays on screen 2, 3, 5 or 8 seconds.\n\nSTICKERS, TEXT AND YOUR LOGO\n\nAdd a caption, your logo, a GIF or a drawing on top of the whole video. Drag it, resize and rotate it with one finger, set the opacity for a watermark. The player shows it exactly as it will be saved.\n\nTRIM EACH CLIP\n\nCut the start and the end of every clip right on the screen: a strip of frames with handles, zoom for a precise cut, steps of 0.1 s. The player shows the exact frame under your finger.\n\nFITS DISCORD AND MAIL\n\nPick 8, 10, 25 or 50 MB or type your own — the video comes out under the limit.\n\nWORKS IN THE BACKGROUND\n\nMerging a long video? Leave the app — the progress stays in the notification, with Cancel.\n\nNO LIMITS\n\nMerge videos into one MP4 in the frame of the first video, with the player and the order. Ready files go to Movies / Merge Video.\n\nALL INCLUDED\n\nPhotos between videos · stickers, text, logo and GIF · frame 9:16 · 1:1 · 4:5 · 16:9 with fill · trim each clip · fit a size.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your videos. No account, no tracking.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 2332,
+  "flags": [
+   "subscri"
+  ],
+  "perms": [
+   "FOREGROUND_SERVICE",
+   "FOREGROUND_SERVICE_DATA_SYNC",
+   "FOREGROUND_SERVICE_MEDIA_PROCESSING",
+   "POST_NOTIFICATIONS"
+  ],
+  "pkg": "org.lokio.vjoin",
+  "slug": "vjoin",
+  "shots": [
+   "C:/HEIC-batch/merge-video/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/merge-video/_store/google/screenshots/02-merge-1080x1920.jpg",
+   "C:/HEIC-batch/merge-video/_store/google/screenshots/03-stickers-1080x1920.jpg",
+   "C:/HEIC-batch/merge-video/_store/google/screenshots/04-reels-1080x1920.jpg",
+   "C:/HEIC-batch/merge-video/_store/google/screenshots/05-trim-1080x1920.jpg",
+   "C:/HEIC-batch/merge-video/_store/google/screenshots/06-size-1080x1920.jpg",
+   "C:/HEIC-batch/merge-video/_store/google/screenshots/07-done-1080x1920.jpg",
+   "C:/HEIC-batch/merge-video/_store/google/screenshots/08-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/merge-video/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "mp3-cutter": {
+  "name": "MP3 Cutter & Ringtone Maker",
+  "short": "Cut any song exactly on the wave and make it your ringtone. Works offline.",
+  "full": "MP3 Cutter cuts any song or voice note exactly where you want — right on your phone, without internet — and sets it as your ringtone in one tap. Your files never leave the phone.\n\nCUT ON THE WAVE\n\nSee the whole track as a wave. Drag two handles, fine-tune with ±0.1 s, and listen to the part before you save it.\n\nRINGTONE IN ONE TAP\n\nSet the cut as your ringtone, notification sound or alarm right from the Done screen. Android asks once for «Modify system settings» — that is all it is used for.\n\nNO RINGTONE THAT BURSTS IN\n\nCut from the middle of a song? The app sees it and offers «Make it soft» right on the Done screen: the sound fades in and out over 2 seconds. A quiet recording gets «Make it louder».\n\nSONGS AND VOICE NOTES\n\nMP3, M4A, WAV, FLAC, OGG and voice notes all work. Ready files go to Music / MP3 Cutter with a clear name. Listen right in the app, share in one tap — or join it with other tracks in Merge Audio.\n\nALL INCLUDED\n\nA soft ringtone — fades in and out, the call doesn’t burst in. Cut out the middle — remove an ad, a pause or a mistake and keep both ends. Louder — 150% or 200% for quiet tracks, peaks softened. Sound from a video — a piece of a clip or a Reels as a ringtone or MP3.\nAlso: quality 128 or 320 kbps. No limits.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your files. No account, no tracking.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 1638,
+  "flags": [
+   "Pro",
+   "subscri",
+   "Pro"
+  ],
+  "perms": [
+   "WRITE_SETTINGS"
+  ],
+  "pkg": "org.lokio.mp3cut",
+  "slug": "mp3cut",
+  "shots": [
+   "C:/HEIC-batch/mp3-cutter/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/mp3-cutter/_store/google/screenshots/02-cut-1080x1920.jpg",
+   "C:/HEIC-batch/mp3-cutter/_store/google/screenshots/03-ring-1080x1920.jpg",
+   "C:/HEIC-batch/mp3-cutter/_store/google/screenshots/04-join-1080x1920.jpg",
+   "C:/HEIC-batch/mp3-cutter/_store/google/screenshots/05-more-1080x1920.jpg",
+   "C:/HEIC-batch/mp3-cutter/_store/google/screenshots/06-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/mp3-cutter/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Audio"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "pdf-text": {
+  "name": "PDF to Text — Offline, No Ads",
+  "short": "Clean text from any PDF, even scans. TXT or Markdown for AI. Offline, no ads.",
+  "full": "PDF to Text turns any PDF into clean text right on your phone. A 240-page book becomes about 500 KB of text you can paste into any AI chat, a note or a message. Pick a file, tap one button, done. No ads, no account, no internet.\n\nCLEAN TEXT, NOT A MESS\n\nLines inside a paragraph are joined, words split at line ends are put back together, running headers and page numbers are removed, and spaced-out letters in titles are fixed. Tables come out as tables. Works with big files: a 200 MB book is read page by page, with progress and a Cancel button.\n\nTXT OR MARKDOWN\n\nTXT is plain text for reading and notes. Markdown keeps headings, lists and tables and adds invisible page marks, so an AI can tell you which page it found something on.\n\nONE TAP TO SEND\n\n\"Get text and send\" opens Share right away — a chat, mail, Drive. Or copy all the text and paste it anywhere. Every result also goes to Downloads › PDF to Text. Your PDF is never changed.\n\nNO LIMITS\n\nOne PDF at a time, any size.\nTXT and Markdown.\nCopy, share, save.\nSee every page large before you start.\nNo watermark. Light and dark theme. 22 languages.\n\nALL INCLUDED\n\n• Scan to text — a scan is only pictures of pages. The app recognizes them right on the phone, offline: 12 scripts, from Latin and Cyrillic to Chinese, Japanese, Korean, Arabic and Hindi.\n• Many PDFs at once — a whole stack in one tap.\n• Only the pages you need — tick pages on a grid with a magnifier, and the text comes only from them.\n• Parts for AI — a whole book won't fit into an AI chat in one paste. The app cuts it into parts of the size you choose, each copied in one tap and marked [1/6], [2/6]… Also included: several PDFs as one text file, and all results in one ZIP.\n\nPRIVATE BY DESIGN\n\nPDFs are processed on the phone, scans too. The app has no internet permission, so nothing can be uploaded anywhere — check it yourself in Android settings.",
+  "len": 1882,
+  "flags": [
+   "Pro",
+   "Pro",
+   "Pro",
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.pdftext",
+  "slug": "pdftext",
+  "shots": [
+   "C:/HEIC-batch/pdf-text/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/pdf-text/_store/google/screenshots/02-read-1080x1920.jpg",
+   "C:/HEIC-batch/pdf-text/_store/google/screenshots/03-format-1080x1920.jpg",
+   "C:/HEIC-batch/pdf-text/_store/google/screenshots/04-local-1080x1920.jpg",
+   "C:/HEIC-batch/pdf-text/_store/google/screenshots/05-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/pdf-text/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "pdfjpg": {
+  "name": "PDF to JPG: Image Converter",
+  "short": "PDF pages to sharp JPG pictures in your gallery. Offline, every page, free.",
+  "full": "PDF to JPG turns the pages of any PDF into sharp pictures right on your phone — and puts them straight into your gallery. No internet needed: everything happens on the phone.\n\nPDF → PICTURES IN A SECOND\n\nChoose a PDF or Share it here from Files, mail or a messenger. Every page shows up at once. All pages are selected — tap a page to leave it out, tap again to bring it back.\n\nSEE EVERY PAGE BEFORE YOU SAVE\n\nTap the magnifier on a page to see it full screen. Tap to zoom in, swipe to the next page, select or leave it out right there.\n\nSHARP TEXT\n\nHigh quality — 300 DPI: small text stays readable when you zoom in. Standard — 150 DPI, lighter for messengers.\n\nSTRAIGHT TO YOUR GALLERY\n\nPictures are saved to Gallery / PDF to JPG, in order, with clear names: report_p1.jpg, report_p2.jpg… Share them all at once, open them, or pass them on in one tap: make the photos smaller, crop them to a format, send them by email.\n\nTOO HEAVY FOR A PORTAL? FIXED ON THE SPOT\n\nPortals and application forms often take pictures only up to 500 KB. If a picture is heavier, the Done screen offers «Shrink to 500 KB» — or 100 KB, 200 KB, 1 MB: the same pages are saved again under the limit, ready to upload.\n\nNO LIMITS\n\nOne PDF at a time, every page, no page limit. JPG in Standard and High quality. No ads, no account, no watermark.\n\nALL INCLUDED\n\n• Pictures under a size — each picture up to 100, 200, 500 KB, 1 MB or your own number, the way upload portals and forms ask for it. Text stays readable: quality goes down first, then the size.\n• All pages as one long picture — every chosen page top to bottom in one image, ready for a messenger or a social post.\n• PNG without losses — sharp lines, charts and text.\n• Maximum quality — 400 DPI for printing and zooming in.\n• Several PDFs at once — up to 20 files in one go. Also included: black-and-white pictures, and sending all pictures as one ZIP.\nWant to say thanks? Leave a tip from the menu — you choose the amount. It unlocks nothing and helps make the next apps.\n\nPRIVATE BY DESIGN\n\nPages are turned into pictures on the phone itself. The app has no internet permission, so it cannot upload your documents — they leave the phone only when you share them.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 2432,
+  "flags": [
+   "Pro",
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.pdfjpg",
+  "slug": "pdfjpg",
+  "shots": [
+   "C:/HEIC-batch/pdfjpg/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/pdfjpg/_store/google/screenshots/02-pdf-1080x1920.jpg",
+   "C:/HEIC-batch/pdfjpg/_store/google/screenshots/03-pages-1080x1920.jpg",
+   "C:/HEIC-batch/pdfjpg/_store/google/screenshots/04-zoom-1080x1920.jpg",
+   "C:/HEIC-batch/pdfjpg/_store/google/screenshots/05-sharp-1080x1920.jpg",
+   "C:/HEIC-batch/pdfjpg/_store/google/screenshots/06-gallery-1080x1920.jpg",
+   "C:/HEIC-batch/pdfjpg/_store/google/screenshots/07-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/pdfjpg/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "pdfword": {
+  "name": "PDF to Word: DOCX Converter",
+  "short": "Convert PDF to editable Word: text, headings, tables and images. Works offline.",
+  "full": "PDF to Word turns a PDF into a Word file you can edit — right on your phone, without internet. Pick a PDF, wait a few seconds, done. Your documents never leave the phone.\n\nPDF TO EDITABLE WORD\n\nPick a PDF or Share it here from files, mail or a messenger. You get a .docx: headings stay headings, lists stay lists, paragraphs are joined back together, page numbers and repeating headers are removed. Open it in any Word app and edit the text right away.\n\nTABLES AND IMAGES IN PLACE\n\nTables come out as real tables with rows and columns. Images and charts stay where they were on the page.\n\nSEE IT BEFORE YOU SEND\n\nView the result inside the app: headings, lists and tables, page by page. Then open it in your Word app or share it.\n\nBIG FILES WELCOME\n\nA report of 300 pages or a whole book — the progress shows how far it is. The file goes to Downloads / PDF to Word with a clear name.\n\nA SCAN? RECOGNIZED ON THE SPOT\n\nA photo of a contract or a scanned certificate is a picture with no text inside. Instead of a dead end, the Done screen offers «Recognize and make Word»: the text is recognized right on the phone, without internet — Latin, Cyrillic, Arabic, Chinese, Japanese, Korean, Hindi, Greek, Hebrew, Thai and more.\n\nALL INCLUDED\n\nScans to Word — recognized on the phone. PDFs with a password — type it once, it is never stored. Only the pages you need — tick them on the page thumbnails, zoom in to check. Many PDFs at once, each its own Word file.\nAlso: the whole stack as one ZIP for mail or a chat. No limits.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your documents. No account, no tracking.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 1909,
+  "flags": [
+   "Pro",
+   "subscri",
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.pdfword",
+  "slug": "pdfword",
+  "shots": [
+   "C:/HEIC-batch/pdfword/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/pdfword/_store/google/screenshots/02-word-1080x1920.jpg",
+   "C:/HEIC-batch/pdfword/_store/google/screenshots/03-view-1080x1920.jpg",
+   "C:/HEIC-batch/pdfword/_store/google/screenshots/04-pages-1080x1920.jpg",
+   "C:/HEIC-batch/pdfword/_store/google/screenshots/05-many-1080x1920.jpg",
+   "C:/HEIC-batch/pdfword/_store/google/screenshots/06-lock-1080x1920.jpg",
+   "C:/HEIC-batch/pdfword/_store/google/screenshots/07-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/pdfword/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "phototext": {
+  "name": "Photo to Text: OCR Scanner",
+  "short": "Photos and screenshots to text, offline. Any language, pick lines by finger.",
+  "full": "Photo to Text turns any photo into text right on your phone. A page, a sign, a slide, a receipt or a screenshot — take a photo or pick one, and the text is ready at once. No internet needed: recognition runs on the phone.\n\nSELECT WITH YOUR FINGER — RIGHT ON THE PHOTO\n\nRun your finger over the lines you need and they are selected. Tap a line to add or remove it. Copy, share or listen to just the selected lines — or to the whole text.\n\nPHONES, EMAIL, LINKS AND ADDRESSES LIGHT UP\n\nPhone numbers, email addresses, links and street addresses are found by themselves. Tap — and you call, write, open the site or the map.\n\nSCREENSHOT → TEXT IN A SECOND\n\nShare a screenshot or a photo from the gallery, a messenger or the browser to Photo to Text — you get the text straight away, without extra screens.\n\nANY LANGUAGE\n\nLatin script (English, Spanish, German, French, Turkish, Indonesian, Vietnamese and more), Cyrillic, Chinese, Japanese, Korean, Devanagari, Arabic script, Greek, Hebrew, Thai, Armenian and Georgian. One choice covers every language written in that script.\n\nFLOWING TEXT\n\nOne switch joins the lines of a page into real paragraphs and fixes words split with a hyphen — paste it into a chat, a document or an AI without cleaning up.\n\nPAGE BY PAGE? ONE TEXT\n\nReading a lecture or a contract page by page? After the second photo, «Add pages» picks the rest from the gallery and adds them to the same text, in order.\n\nLISTEN, EDIT, SAVE\n\nListen reads the text aloud in Read Aloud. Edit the text right there. Copy, share or save as TXT to Downloads.\nOpen a photo with Photo to Text straight from your Gallery or Files.\nRecent texts stay on the phone, with search.\n\nNO LIMITS\n\nOne photo at a time, camera, gallery, Share and Open with, selection on the photo, links, flowing text, every language, TXT. No ads, no account.\n\nALL INCLUDED\n\n• Many photos at once — up to 50 photos in a row become one text, in order: a lecture, a contract, a book chapter.\n• To Word — the text as a .docx file with paragraphs, ready to edit in Word or Google Docs.\n• Business card → contact — name, phones, email and company go into Contacts in one tap. Shoot the card from the home screen and the new contact opens right away. Also included: a batch as one ZIP with a TXT for every photo.\nWant to say thanks? Leave a tip from the menu — you choose the amount. It unlocks nothing and keeps the next apps free of ads.\n\nPRIVATE BY DESIGN\n\nText is recognized on the phone itself. The app has no internet permission, so it cannot upload your photos or text — they leave the phone only when you share them.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 2821,
+  "flags": [
+   "Pro",
+   "Pro",
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.phototext",
+  "slug": "phototext",
+  "shots": [
+   "C:/HEIC-batch/phototext/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/phototext/_store/google/screenshots/02-select-1080x1920.jpg",
+   "C:/HEIC-batch/phototext/_store/google/screenshots/03-tap-1080x1920.jpg",
+   "C:/HEIC-batch/phototext/_store/google/screenshots/04-text-1080x1920.jpg",
+   "C:/HEIC-batch/phototext/_store/google/screenshots/05-any-1080x1920.jpg",
+   "C:/HEIC-batch/phototext/_store/google/screenshots/06-recent-1080x1920.jpg",
+   "C:/HEIC-batch/phototext/_store/google/screenshots/07-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/phototext/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "resizer": {
+  "name": "Resizer: Crop & Resize Photo",
+  "short": "Any photo into any format: 4:5, story, A4, exact pixels or a carousel. Offline",
+  "full": "Resizer puts any photo into any format on your phone — exact pixels. Pick square, portrait, story, wide, a cover or A4: the photo sits in the frame, you move it with a finger and pinch to zoom, and Save gives exactly what you see. The original stays untouched. No account, no ads and no internet permission at all.\n\nFORMATS\n\nSquare 1:1 · 1080×1080\nPortrait 4:5 · 1080×1350\nStory 9:16 · 1080×1920\nWide 16:9 · 1920×1080\nCover · 1200×630\nA4 at 300 dpi · 2480×3508\nCustom: drag the corners of the frame to the shape you want, then tap the size and type exact pixels — or centimeters at any dpi, up to 36 megapixels.\n\nFRAME IT YOUR WAY\n\nDrag to move the photo in the frame. Pinch to zoom in or out — from a small logo in the middle of the frame up to ×10. Double tap fills the frame again. Rotate by 90° with one button.\nFit with borders: the whole photo, nothing cut off, with blurred, white or black borders.\n\nTRANSPARENT PNG\n\nLogos and stickers with a transparent background stay transparent and are saved as PNG. Prefer a solid background? Choose white or black and get a JPEG that every messenger shows correctly.\n\nSMALL THINGS THAT MATTER\n\nEvery photo shows its size and format on the thumbnail: 3.2 MB · JPG, 1.1 MB · HEIC.\nJPEG, PNG, HEIC and WebP in; JPEG or PNG out, chosen for you.\nDate and camera kept or removed with one switch. Location is never copied into new files.\nSave and send in one tap: the new file goes to Pictures / Resizer and the share window opens right away.\nOpen a photo with Resizer straight from your Gallery or Files.\nNot sure where to start? Show the example in the menu.\n\nFREE, ALWAYS\n\nOne photo at a time, every format, your own size, the frame, borders, transparency, rotation, Save and send. No limits, no watermark, no ads, no account.\n\nALL INCLUDED\n\n• Batch for the feed and marketplace — the whole album in one format in one tap; nudge any photo by hand.\n• Faces always in the frame — found on the phone, no internet, across the whole batch.\n• Panorama into a carousel — a wide photo becomes 2 to 10 seamless slides, 4:5 or 1:1, in the right order for a swipe post.\n• Ready to send — the file fits the size a site or form asks for: from 200 KB to 5 MB.\nAlso included: every format from one photo at once, send everything as one archive.\nWant to say thanks? Leave a tip from the menu — you choose the amount. It unlocks nothing and keeps the next apps free of ads.\n\nWHAT IS NEXT\n\nOn the Done screen: make the photo smaller in KB with Compress Photo, remove location and EXIF with EXIF Cleaner, or send it by email with Email Maker.\n\nPrivacy: photos are opened through the Android photo picker and never leave the phone. The app has no internet permission, so it cannot upload anything — a photo leaves the phone only when you share it.\n\n22 languages, Arabic and Urdu right to left.",
+  "len": 2816,
+  "flags": [
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.resize",
+  "slug": "resize",
+  "shots": [
+   "C:/HEIC-batch/resizer/_store/google/screenshots/02-size-1080x1920.jpg",
+   "C:/HEIC-batch/resizer/_store/google/screenshots/03-pixels-1080x1920.jpg",
+   "C:/HEIC-batch/resizer/_store/google/screenshots/04-logo-1080x1920.jpg",
+   "C:/HEIC-batch/resizer/_store/google/screenshots/05-png-1080x1920.jpg",
+   "C:/HEIC-batch/resizer/_store/google/screenshots/06-batch-1080x1920.jpg",
+   "C:/HEIC-batch/resizer/_store/google/screenshots/07-lang-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/resizer/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "resume": {
+  "name": "Resume Maker: CV with AI",
+  "short": "Resume with your own AI → PDF. Offline, no ads, your data stays on the phone.",
+  "full": "Resume AI builds a clean, modern resume right on your phone and saves it as a PDF. Your own AI app does the writing: one tap sends everything you have to ChatGPT, Gemini or any AI chat you use, you paste the answer back, and every section is filled in. No account, no ads, and no internet permission at all.\n\nWHAT IT DOES\n\nSections like on LinkedIn: contacts with a photo, about, experience, education, skills, languages. Drag to reorder, hide with one tap.\nSkill levels from Junior to Expert and language levels from A1 to Native, shown as neat bars and written as words, so job sites read them too.\nWork format: open to relocation, remote, hybrid, on-site, business trips, and your work permit — the first thing recruiters filter by.\nA readiness score with a checklist shows what is missing and how much each item adds.\nA QR code in the header opens your free Lokio page with all your links.\nThe preview is exactly the PDF you get. If it spills over by a few lines, one tap fits it on one page.\nSaves <Name>_CV.pdf in Downloads / Resume. Open it, save it anywhere, share it or print it.\n\nFREE\n\nOne resume, filled in by hand.\nThe Strict template — one column, made for job sites.\nThe Column template — free when you add your Lokio page.\nPDF with no watermark —, no limits. Print. Readiness score.\nLight and dark theme. 22 languages.\nNo ads. No account. No internet permission: nothing can leave the phone.\n\nALL INCLUDED\n\n• A resume in 30 seconds with AI — one request with a strict format: your AI writes the About section, splits your experience into separate jobs with short achievement points and sets your skill levels. Paste the answer and every part lands in its place.\n• Tailored to the job — paste a job posting: your AI rewrites About, experience and skills to match its requirements and keywords, without inventing facts.\n• Cover letter — in the same colors, font and header as your resume. Your AI writes it from your resume and the job posting; save it as a PDF next to the resume.\n• Several resumes — one for each job. Copy your resume in one tap and adapt it.\n• Resume in Word (.docx) — when a job site or a recruiter asks for Word.\nAlso included: all four templates, six colors and a serif font, your own sections (courses, projects, awards), and sending the resume and the letter as one ZIP.\n\nHOW IT WORKS\n\nTap Create a resume and fill in the sections, or let your AI fill in everything.\nPaste a job posting to tailor it, write a cover letter.\nPick a template and a color, tap Save PDF.\nSend it to a recruiter or print it.\n\nPrivacy: your resumes, job postings and letters live only in the app on your phone. They go to an AI app only when you tap Send, and only to the app you choose.",
+  "len": 2701,
+  "flags": [
+   "Pro",
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.cv",
+  "slug": "cv",
+  "shots": [
+   "C:/HEIC-batch/resume/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/resume/_store/google/screenshots/02-ai-1080x1920.jpg",
+   "C:/HEIC-batch/resume/_store/google/screenshots/03-pdf-1080x1920.jpg",
+   "C:/HEIC-batch/resume/_store/google/screenshots/04-ready-1080x1920.jpg",
+   "C:/HEIC-batch/resume/_store/google/screenshots/05-qr-1080x1920.jpg",
+   "C:/HEIC-batch/resume/_store/google/screenshots/06-local-1080x1920.jpg",
+   "C:/HEIC-batch/resume/_store/google/screenshots/07-lang-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/resume/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "Basic information",
+    "Name"
+   ],
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Business",
+   "Business software"
+  ]
+ },
+ "scanner": {
+  "name": "Scan to PDF — Offline Scanner",
+  "short": "Document scanner: point the camera, get a clean PDF. No ads, no account, offline",
+  "full": "Scan to PDF is a document scanner that works right on your phone. Point the camera at a sheet: the app finds its edges, straightens the page and makes the paper white. Shadows and yellow light are gone. No account, no ads, and no internet permission at all.\n\nWHAT IT DOES\n\nA live frame shows the sheet it has found. You press the button when you are ready: no automatic shots going off by themselves.\nUses the main camera: tap to focus, flash, the whole frame sharp.\nThree looks for every scan: Document (clean black and white), Color (white paper, stamps and pen stay in colour) and As shot.\nCrop by the corners and the middles of the sides, with a magnifier under your finger. Rotate, retake a page, delete, change the order by holding a thumbnail.\nPinch or double-tap to zoom a page. Hold it to compare with the original photo.\nPhotos and PDFs you already have are welcome too: a photo of a contract from a chat is cleaned just like a scan, and pages of a digital PDF are kept whole.\nSaves Scan_<date>_<time>.pdf in Downloads / Scan to PDF. Save it anywhere, share it or print it on a printer in your network.\n\nFREE, ALWAYS\n\nAny number of scans and pages.\nAll three looks, crop, rotate, retake, print.\n2400 px pages, about 200 dpi on A4.\nNo watermark. Light and dark theme. 22 languages.\nNo ads. No account. No internet permission: nothing can leave the phone.\n\nALL INCLUDED\n\n• PDF under the size limit — a website or a mail server accepts only 1, 2 or 5 MB? Pick the limit: the app makes the pages lighter until the whole PDF fits, and the text stays readable.\n• ID and passport: both sides on one sheet — scan the front and the back, they land on one A4 at real size, like a photocopy.\n• Many photos and PDFs at once.\n• Any sheet size: A4, Letter or no margins (the page is exactly the size of the document, good for receipts and cards).\n• Print quality: 3200 px pages.\nAlso included: send the scan as one ZIP.\n\nHOW IT WORKS\n\nTap Scan, point the camera at the sheet, press the button for each page, then Done.\nPick a look, fix a corner if you need to, tap Save PDF.\nShare the result, print it, or open it in the next app: make the file smaller, get the text, add a stamp or signature.\n\nBest results: a sheet on a darker background, in even light.\n\nCamera: the app asks for the camera only when you tap Scan. Photos stay on the phone and are used only to make your PDF.",
+  "len": 2373,
+  "flags": [
+   "Pro"
+  ],
+  "perms": [
+   "CAMERA"
+  ],
+  "pkg": "org.lokio.scan",
+  "slug": "scan",
+  "shots": [
+   "C:/HEIC-batch/scanner/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/scanner/_store/google/screenshots/02-scan-1080x1920.jpg",
+   "C:/HEIC-batch/scanner/_store/google/screenshots/03-clean-1080x1920.jpg",
+   "C:/HEIC-batch/scanner/_store/google/screenshots/04-next-1080x1920.jpg",
+   "C:/HEIC-batch/scanner/_store/google/screenshots/05-local-1080x1920.jpg",
+   "C:/HEIC-batch/scanner/_store/google/screenshots/06-lang-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/scanner/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "unlock": {
+  "name": "Unlock PDF: Remove Password",
+  "short": "Remove a PDF password you know, set or change one. Works offline.",
+  "full": "Unlock PDF removes a password from a PDF you know the password to — right on your phone, without internet. Type it once and you get a copy that opens without it. Your files and passwords never leave the phone.\n\nREMOVE A PASSWORD\n\nPick a PDF or Share it here from Files, mail or a messenger, type its password once — done. Print and copy restrictions are removed too, no password needed for that. You get name_unlocked.pdf in Downloads / Unlock PDF; your original stays as it was.\n\nSET OR CHANGE A PASSWORD\n\nLock any PDF with a password (AES-128) so only people who know it can open it. Change a password in one go: the old one, then a new one.\n\nMY PASSWORDS\n\nBank statements, payslips and bills often come every month with the same password. Turn on «Remember this password» once — the next files with it open on their own, no typing. Typed the same password a second time? The Done screen offers «Remember this password» right there. Passwords are saved only when you choose to, encrypted on your phone with an Android Keystore key, and never sent anywhere. Delete them any time. To notice a repeat, the app keeps only a one-way fingerprint of a typed password, made with a Keystore key.\n\nMORE\n\nRemove hidden data: author, app and dates are erased before you send a contract or a CV. Many PDFs at once: one password for a whole year of statements. No printing or copying: the file opens, but can't be printed or copied.\n No limits.\n\nNEXT STEPS IN ONE TAP\n\nA PDF without a password goes straight to our other apps: turn it into Word or pictures, merge it, make it smaller — or print it.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your documents or passwords. It doesn't guess passwords: if you don't know it, ask whoever sent the file.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 2041,
+  "flags": [
+   "PRO",
+   "PRO",
+   "Pro",
+   "subscri"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.unlock",
+  "slug": "unlock",
+  "shots": [
+   "C:/HEIC-batch/unlock/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/unlock/_store/google/screenshots/02-all-1080x1920.jpg",
+   "C:/HEIC-batch/unlock/_store/google/screenshots/03-unlock-1080x1920.jpg",
+   "C:/HEIC-batch/unlock/_store/google/screenshots/04-done-1080x1920.jpg",
+   "C:/HEIC-batch/unlock/_store/google/screenshots/05-keys-1080x1920.jpg",
+   "C:/HEIC-batch/unlock/_store/google/screenshots/06-batch-1080x1920.jpg",
+   "C:/HEIC-batch/unlock/_store/google/screenshots/07-lock-1080x1920.jpg",
+   "C:/HEIC-batch/unlock/_store/google/screenshots/08-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/unlock/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "video-cutter": {
+  "name": "Video Cutter: Trim & Crop",
+  "short": "Trim a video to the exact frame and crop it to 9:16 for Reels. Works offline.",
+  "full": "Video Cutter trims any video exactly where you want and crops it for Reels, TikTok and Shorts — right on your phone, without internet. No watermark. Your videos never leave the phone.\n\nTRIM FRAME BY FRAME\n\nSee the video as a strip of frames. Drag two handles, fine-tune with ±0.1 s — the player shows the exact frame under the handle. The magnifier zooms the strip in for a frame-exact cut. Watch the part before you save.\n\nCUT OUT THE MIDDLE\n\nRemove a pause, a mistake or an ad — the ends are joined.\n\nFRAME FOR REELS\n\n9:16, 1:1, 4:5 or 16:9. Move the frame with your finger so faces stay in.\n\nSTILL TOO BIG FOR WHATSAPP? FIXED ON THE SPOT\n\nWhatsApp takes 16 MB, mail 25 MB. If the piece you cut is still bigger, the app offers «Make it 16 MB» right on the Done screen: the same piece, exactly under the limit. And if the 9:16 frame cut off half the picture, «Fit whole» puts the whole video in with blurred edges — nobody is cut off.\n\nSAME QUALITY, FAST\n\nThe phone's own video encoder does the work: fast and cool. Quality stays like the original. Ready videos go to Movies / Video Cutter and show up in the gallery. Pass them on in one tap: smaller in Compress Video, the sound in Video to MP3, speech to text in To Text.\n\nALL INCLUDED\n\nFits WhatsApp and mail — 16 or 25 MB. Fit whole — the whole video in 9:16, 1:1 or 4:5 with blurred edges instead of black bars. Rotate and mirror — a sideways video upright in one tap. Frame to photo — any moment as a full-quality picture.\nAlso: without sound. No limits.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your videos. No account, no tracking.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 1898,
+  "flags": [
+   "Pro",
+   "subscri",
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.vcut",
+  "slug": "vcut",
+  "shots": [
+   "C:/HEIC-batch/video-cutter/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/video-cutter/_store/google/screenshots/02-trim-1080x1920.jpg",
+   "C:/HEIC-batch/video-cutter/_store/google/screenshots/03-frame-1080x1920.jpg",
+   "C:/HEIC-batch/video-cutter/_store/google/screenshots/04-zoom-1080x1920.jpg",
+   "C:/HEIC-batch/video-cutter/_store/google/screenshots/05-fit-1080x1920.jpg",
+   "C:/HEIC-batch/video-cutter/_store/google/screenshots/07-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/video-cutter/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "video-frames": {
+  "name": "Video to JPG: Frame Extractor",
+  "short": "Extract the exact frame, every N sec or all frames to JPG. One ZIP. Offline.",
+  "full": "Need the best moment from a video as a photo? A cover for Reels or Shorts, a carousel, a storyboard for editing? Video to JPG takes exactly the frames you need — right on your phone.\n\nTHE EXACT FRAME, NOT THE NEAREST KEYFRAME\nStep frame by frame with ◀ ▶ and see the timecode and the frame number. You get the frame you see — not a blurry neighbour.\n\nEVERY N SECONDS, PER SECOND OR ALL FRAMES\nOne frame · every 0.5–10 seconds · 1 to 15 frames per second · every frame of the part you choose. How many frames and how many MB — shown before you tap.\n\nONE ZIP OR A STORYBOARD PDF\nSend the whole set as one ZIP to a chat or to your computer, or make a storyboard PDF with timecodes. Files are named in order, with the frame number and time.\n\nVERTICAL STAYS VERTICAL\nRotation from the video is kept: vertical videos give vertical frames. JPG, PNG or WebP — as in the video or smaller.\n\nNO INTERNET, NO ADS, NO ACCOUNT\nEverything stays on your phone. Frames are kept in the app for 24 hours — save them to Gallery when you want to keep them.\n\nFREE EVERY DAY\nOne free export a day: one frame or up to 30 frames, JPG at full size, no watermark.\n\nALL INCLUDED\n• All frames and frames per second\n• The whole set as one ZIP\n• No daily limit, any video length\n• PNG and WebP without loss, storyboard PDF\n\n22 languages.",
+  "len": 1306,
+  "flags": [],
+  "perms": [],
+  "pkg": "org.lokio.frames",
+  "slug": "frames",
+  "shots": [
+   "C:/HEIC-batch/video-frames/_store/google/screenshots/02-exact-1080x1920.jpg",
+   "C:/HEIC-batch/video-frames/_store/google/screenshots/03-every-1080x1920.jpg",
+   "C:/HEIC-batch/video-frames/_store/google/screenshots/04-fps-1080x1920.jpg",
+   "C:/HEIC-batch/video-frames/_store/google/screenshots/05-pdf-1080x1920.jpg",
+   "C:/HEIC-batch/video-frames/_store/google/screenshots/06-offline-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/video-frames/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "video-speed": {
+  "name": "Video Speed: Slow Motion",
+  "short": "Slow down or speed up a video, the voice keeps its pitch. No watermark, offline.",
+  "full": "Video Speed makes a video slower or faster — right on your phone, without internet. The voice keeps its normal pitch. No watermark. Your videos never leave the phone.\n\nSLOWER OR FASTER\n\n0.25×, 0.5×, 0.75×, 1.5×, 2× or 4× — or anything in between with the slider. The tempo changes, the voice does not: no chipmunk sound at 2×, no deep growl at 0.5×. The player shows it exactly as it will be saved, and the new length is on screen before you save.\n\nTOO LONG FOR A STATUS? FIXED ON THE SPOT\n\nA WhatsApp status takes up to 90 seconds. If your slowed-down video is longer, the app offers «Fit into 90 s» right on the Done screen: the same video, the speed is picked for you.\n\nSLOW-MO JUST THE MOMENT\n\nPick the trick, the jump or the goal on the strip of frames, and only that moment plays at its own speed — with smooth ramps in and out. Ready styles: Slow-mo, Velocity (fast — slow — fast) and Speed-up. Watch it from three seconds before the moment.\n\nPLAY IT BACKWARDS\n\nWater flows back into the glass, the jump lands in reverse. See it in the player before you save.\n\nSTICKERS ON TOP\n\nPut your logo, a GIF, a drawing or text over the video. Move, resize and rotate each one with your finger. Lower the opacity and a logo or text becomes a watermark.\n\nFREE, ALWAYS\n\nOne speed for the whole video from 0.25× to 4×, with sound, same quality as the original, no length limit. Ready videos go to Movies / Video Speed and show up in the gallery. Pass them on in one tap: smaller in Compress Video, in parts in Video Splitter, as a GIF in Video to GIF.\n\nALL INCLUDED\n\nSlow-mo just the moment. Fit into 15, 30, 60 or 90 seconds. Reverse (finished video up to 60 seconds, without sound). Stickers and your logo on top.\nAlso: 0.1× to 10× — super slow-mo and timelapse.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself, with the phone's own encoder. The app has no internet permission, so it cannot upload your videos. No account, no tracking.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 2175,
+  "flags": [
+   "Pro",
+   "subscri"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.speed",
+  "slug": "speed",
+  "shots": [
+   "C:/HEIC-batch/video-speed/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/video-speed/_store/google/screenshots/02-speed-1080x1920.jpg",
+   "C:/HEIC-batch/video-speed/_store/google/screenshots/03-moment-1080x1920.jpg",
+   "C:/HEIC-batch/video-speed/_store/google/screenshots/04-reverse-1080x1920.jpg",
+   "C:/HEIC-batch/video-speed/_store/google/screenshots/05-stickers-1080x1920.jpg",
+   "C:/HEIC-batch/video-speed/_store/google/screenshots/06-done-1080x1920.jpg",
+   "C:/HEIC-batch/video-speed/_store/google/screenshots/07-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/video-speed/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "video-splitter": {
+  "name": "Video Splitter: Status Parts",
+  "short": "Split a long video into 30, 60 or 90 s parts in seconds. No watermark, offline.",
+  "full": "Video Splitter cuts a long video into parts for your status — 30, 60 or 90 seconds, or 2 to 10 equal parts — right on your phone, in seconds. No watermark. Your videos never leave the phone.\n\nPARTS IN SECONDS\n\nParts are copied as they are, without re-encoding: a minute of 4K is split almost instantly, and quality and file size stay exactly like the original. Every part fits the limit you chose, and there is no tiny leftover at the end.\n\nSTILL TOO BIG FOR WHATSAPP? FIXED ON THE SPOT\n\nWhatsApp takes 16 MB, mail 25 MB. If the parts are bigger, the app offers «Make each 16 MB» right on the Done screen: the same parts, each one exactly under the limit.\n\nSEE EVERY CUT\n\nThe strip of frames shows where the video will be cut and how long each part is. Tap a part to watch it before you save.\n\nPOST THEM IN ORDER\n\nEach part is a separate video with its number in the name. Share all at once or one by one. Ready parts go to Movies / Video Splitter and show up in the gallery. Pass them on in one tap: smaller in Compress Video, trimmed in Video Cutter, joined back in Merge Video.\n\nALL INCLUDED\n\nFits WhatsApp and mail — every part under 16 or 25 MB, cut by time and shrunk, not chopped into crumbs. By scenes — drag handles to the exact frame and keep only the parts you need; the rest is not saved. Frame 9:16 — a wide video into vertical parts, the frame moves with your finger. All in one ZIP — for chats that take a single file.\nAlso: 10 MB for Discord, 50 MB for forms. No limits.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your videos. No account, no tracking.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 1873,
+  "flags": [
+   "Pro",
+   "subscri",
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.split",
+  "slug": "split",
+  "shots": [
+   "C:/HEIC-batch/video-splitter/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/video-splitter/_store/google/screenshots/02-parts-1080x1920.jpg",
+   "C:/HEIC-batch/video-splitter/_store/google/screenshots/03-done-1080x1920.jpg",
+   "C:/HEIC-batch/video-splitter/_store/google/screenshots/04-scenes-1080x1920.jpg",
+   "C:/HEIC-batch/video-splitter/_store/google/screenshots/05-frame-1080x1920.jpg",
+   "C:/HEIC-batch/video-splitter/_store/google/screenshots/06-4k-1080x1920.jpg",
+   "C:/HEIC-batch/video-splitter/_store/google/screenshots/07-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/video-splitter/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "video-to-gif": {
+  "name": "Video to GIF: GIF Maker",
+  "short": "Lead the frame with a finger, add stickers, make a GIF. No watermark, offline.",
+  "full": "Video to GIF turns any moment of a video into a GIF or an MP4 loop — right on your phone, without internet. No watermark. Your videos never leave the phone.\n\nLEAD THE FRAME WITH A FINGER\n\nTake a wide video and make a vertical, square or round GIF that follows the action. Hold the frame and lead it after the subject while the video plays — let go to pause, hold again to go on. The motion is smoothed, so the GIF moves calmly, not in jerks. Try it free before you buy.\n\nSTICKERS ON TOP\n\nPut your logo, a GIF, a drawing or text over the video — as many as you like. Move, resize and rotate each one with your finger. Lower the opacity and a logo or text becomes a watermark. A drawing can draw itself in, an animated GIF loops to the end. Recent pictures stay one tap away.\n\nTOO BIG FOR DISCORD? FIXED ON THE SPOT\n\nDiscord takes files up to 10 MB. If your GIF is bigger, the app offers «Make it 10 MB» right on the Done screen: the same GIF, exactly under the limit.\n\nBOOMERANG\n\nForward and back, again and again — see it play before you save.\n\nGIF OR MP4 LOOP\n\nGIF in 320, 480 or 640 px, 10, 15 or 20 frames per second. Or an MP4 loop — the moment 1, 3 or 5 times in a row, with or without sound, lighter and sharper for Stories, Reels and statuses. The button shows about how big the file will be.\n\nNO LIMITS\n\nAny moment up to 10 seconds, every size, GIF or MP4, watch before you save. Ready files go to Pictures / Video to GIF and show up in the gallery.\n\nALL INCLUDED\n\nFits Discord and chats — the GIF shrinks itself under 2, 5, 10 or 15 MB. Lead the frame with a finger. Stickers and your logo on top. Boomerang.\nAlso: up to 30 seconds.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your videos. No account, no tracking.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 2028,
+  "flags": [
+   "Pro",
+   "subscri"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.gif",
+  "slug": "gif",
+  "shots": [
+   "C:/HEIC-batch/video-to-gif/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/video-to-gif/_store/google/screenshots/02-lead-1080x1920.jpg",
+   "C:/HEIC-batch/video-to-gif/_store/google/screenshots/03-result-1080x1920.jpg",
+   "C:/HEIC-batch/video-to-gif/_store/google/screenshots/04-stickers-1080x1920.jpg",
+   "C:/HEIC-batch/video-to-gif/_store/google/screenshots/05-boom-1080x1920.jpg",
+   "C:/HEIC-batch/video-to-gif/_store/google/screenshots/06-done-1080x1920.jpg",
+   "C:/HEIC-batch/video-to-gif/_store/google/screenshots/07-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/video-to-gif/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "video-to-mp3": {
+  "name": "Video to MP3: Audio Extractor",
+  "short": "Get the sound from any video as MP3. Audio files too. Works offline.",
+  "full": "Video to MP3 takes the sound out of any video — right on your phone, without internet. Pick a video, see the size, done. Your files never leave the phone.\n\nMP3 THAT PLAYS EVERYWHERE\n\nMP3 at 192 kbps is right for music and voice and plays on any phone, car or computer. The size shows before you start. No limits.\n\nTOO BIG FOR WHATSAPP? FIXED ON THE SPOT\n\nAn hour-long lecture is 86 MB as MP3, while WhatsApp takes 16 MB and mail 25 MB. The app sees it and offers «Make it 16 MB» right on the Done screen: the same sound, a smaller file.\n\nQUIET RECORDING? LOUDER IN ONE TAP\n\nA concert from the back row or a lecture from the last desk — the app notices and makes it twice as loud, with peaks softened so nothing crackles.\n\nHONEST ABOUT SILENCE\n\nIf a video has no sound track, the app tells you right away instead of making an empty file.\n\nREADY TO SEND\n\nReady files go to Music / Video to MP3 with a clear name. Listen right in the app, share in one tap — or pass it on: cut a ringtone in MP3 Cutter, join tracks in Merge Audio, turn speech into text in To Text.\n\nALL INCLUDED\n\nOnly the part you need — just the chorus or the speech, to a tenth of a second. Fits WhatsApp and mail — 16 or 25 MB, the quality is picked for you. Louder — 150% or 200%. Many at once, all in one archive.\nAlso: voice notes and audio files → MP3, M4A without re-encoding, 128 or 320 kbps.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your files. No account, no tracking.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 1751,
+  "flags": [
+   "Pro",
+   "Pro",
+   "subscri"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.mp3",
+  "slug": "mp3",
+  "shots": [
+   "C:/HEIC-batch/video-to-mp3/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/video-to-mp3/_store/google/screenshots/02-size-1080x1920.jpg",
+   "C:/HEIC-batch/video-to-mp3/_store/google/screenshots/03-done-1080x1920.jpg",
+   "C:/HEIC-batch/video-to-mp3/_store/google/screenshots/04-part-1080x1920.jpg",
+   "C:/HEIC-batch/video-to-mp3/_store/google/screenshots/05-many-1080x1920.jpg",
+   "C:/HEIC-batch/video-to-mp3/_store/google/screenshots/06-audio-1080x1920.jpg",
+   "C:/HEIC-batch/video-to-mp3/_store/google/screenshots/07-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/video-to-mp3/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "voice": {
+  "name": "Video & Audio to Text, Offline",
+  "short": "Speech to text on your phone: lectures, meetings, videos. Works offline.",
+  "full": "To Text turns speech into text right on your phone. Record a lecture, a meeting, a talk with friends or a walk in the mountains — the text appears while you record, and after Stop it is ready to copy or send to your AI. No internet needed: everything runs on the phone.\n\nTWO SOURCES\n\nSound around you — a lecture hall, a meeting room, your own voice. Tap and recording starts.\nSound on your phone — any video or audio that plays on it: YouTube, TikTok, Instagram, Telegram, webinars, the browser. Absolutely any source, except apps that forbid recording their sound. Nothing to download, no links to paste: what plays is what gets recorded.\n\nONLY WHAT YOU NEED\n\nPause where it gets boring, skip ahead, resume — only the parts you need go into the text. Silence is not recorded.\n\nTHE TEXT\n\nText appears while you record, phrase by phrase with time stamps.\nCopy it, or send it To AI in one tap for a summary and tasks.\nSave as TXT or MD, or share. Tap a phrase — the sound plays from that spot.\nListen to the text read aloud in Read Aloud.\nSpeech in 22 languages, detected by itself: English, Español, Português, Français, Deutsch, Italiano, Русский, Українська, Polski, Türkçe, Bahasa Indonesia, Bahasa Melayu, Nederlands, Română, Čeština, العربية, اردو, 日本語, 한국어, 中文, Tiếng Việt, ไทย.\nFiles work too: choose audio or video, Share a voice message from a messenger, or open a recording with To Text straight from your files.\n\nFREE\n\nRecording from the microphone and from the phone without limits, files, every feature for the text. No ads, no account.\n\nALL INCLUDED\n\n• Long recordings in full: lectures, meetings, webinars and podcasts longer than 30 minutes get the whole text, not just the start.\n• Floating button over any app: ▶ record, tap to pause, ■ stop — the text is made by itself while you watch the next video.\n• Translation to English on the phone: a lecture in another language becomes English text.\n• SRT subtitles: a subtitle file with time codes for your own video — CapCut, YouTube, Premiere.\n• To Word: the text as a .docx file with paragraphs, ready to edit in Word or Google Docs.\n\nWant to say thanks? Leave a tip from the menu — you choose the amount. It unlocks nothing and keeps the next apps free of ads.\n\nPRIVATE BY DESIGN\n\nSpeech recognition runs on the phone. The app has no internet permission, so it cannot upload your recordings or text — they leave the phone only when you share them. Recordings take about 30 MB per hour of sound.\n\nThe app speaks 25 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська, Oʻzbekcha, Čeština, Română.",
+  "len": 2722,
+  "flags": [],
+  "perms": [
+   "RECORD_AUDIO",
+   "FOREGROUND_SERVICE",
+   "FOREGROUND_SERVICE_MICROPHONE",
+   "FOREGROUND_SERVICE_MEDIA_PROJECTION",
+   "FOREGROUND_SERVICE_DATA_SYNC",
+   "FOREGROUND_SERVICE_MEDIA_PROCESSING",
+   "POST_NOTIFICATIONS",
+   "SYSTEM_ALERT_WINDOW",
+   "FOREGROUND_SERVICE_SPECIAL_USE",
+   "READ_MEDIA_AUDIO",
+   "READ_EXTERNAL_STORAGE"
+  ],
+  "pkg": "org.lokio.transcribe",
+  "slug": "totext",
+  "shots": [
+   "C:/HEIC-batch/voice/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/voice/_store/google/screenshots/02-video-1080x1920.jpg",
+   "C:/HEIC-batch/voice/_store/google/screenshots/03-sources-1080x1920.jpg",
+   "C:/HEIC-batch/voice/_store/google/screenshots/04-live-1080x1920.jpg",
+   "C:/HEIC-batch/voice/_store/google/screenshots/05-ai-1080x1920.jpg",
+   "C:/HEIC-batch/voice/_store/google/screenshots/06-offline-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/voice/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Audio"
+   ],
+   [
+    "User content",
+    "Audio recording"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "zip-extractor": {
+  "name": "Zip Extractor: Unzip, RAR, 7z",
+  "short": "Open ZIP, RAR, 7z from Telegram. Shrink photos into 25 MB for email.",
+  "full": "Zip Extractor opens ZIP, RAR and 7z archives right on your phone — from Telegram, WhatsApp, mail or Files. Photos inside show up as tiles, every file opens with one tap, and \"Save all\" puts everything into Downloads. Opening, packing and saving archives has no limits. No ads, no account, no internet.\n\nANY ARCHIVE\n\nZIP, RAR (including RAR5), 7z, TAR, GZ, BZ2, XZ, ISO and CAB. Archives in parts — part1.rar, .001 — open when you pick all parts at once. Password archives open too, even when the file names are hidden. The password is never stored.\n\nSEE WHAT'S INSIDE\n\nPhotos and videos inside the archive show as tiles with previews, iPhone HEIC photos included. Documents show as a list with their folders and sizes, in the same order as in Files. Tap any file — it opens without unpacking the whole archive.\n\nSAVE IN ONE TAP\n\n\"Save all\" puts the files into Downloads › Zip Extractor, with the folders exactly as in the archive. Need only some? Tick them — or \"Select all\" — and save or send just those. Big archives keep unpacking in the background, with progress and Cancel in the notification. No limits.\n\nPACK AND SEND\n\nPhotos and files in one ZIP or 7z, with a password if you like — and the share sheet opens right away. ZIP opens anywhere; 7z with a password uses AES-256 and hides the file names too.\n\nALL INCLUDED\n\nZIP barely shrinks photos, videos and PDFs: 40 photos are still 140 MB, and email takes 25 MB. The app shrinks them while packing — just enough to fit: 25 MB for email, 10 MB or 5 MB for portals. One tap: \"Shrink and send\". Your originals stay untouched.\n• Too big even shrunk — several archives, each opens on its own.\n• Shrink an archive you received and forward it. RAR and 7z become ZIP that opens on iPhone and Windows.\n• iPhone photos (HEIC) go to your Gallery and into archives as JPG.\n• Save files out without the daily limit.\n\nPRIVATE BY DESIGN\n\nEverything happens on the phone itself. The app has no internet permission, so it cannot upload your files. No account, no tracking, no ads.\n\nThe app speaks 22 languages: English, Русский, Español, Português, Bahasa Indonesia, العربية, 日本語, Türkçe, Français, हिन्दी, Deutsch, 한국어, Tiếng Việt, ไทย, Italiano, Polski, বাংলা, اردو, 繁體中文, Nederlands, Bahasa Melayu, Українська.",
+  "len": 2254,
+  "flags": [
+   "Pro",
+   "Pro",
+   "purchase",
+   "subscri"
+  ],
+  "perms": [
+   "FOREGROUND_SERVICE",
+   "FOREGROUND_SERVICE_DATA_SYNC",
+   "POST_NOTIFICATIONS"
+  ],
+  "pkg": "org.lokio.zip",
+  "slug": "zip",
+  "shots": [
+   "C:/HEIC-batch/zip-extractor/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/zip-extractor/_store/google/screenshots/02-open-1080x1920.jpg",
+   "C:/HEIC-batch/zip-extractor/_store/google/screenshots/03-fit-1080x1920.jpg",
+   "C:/HEIC-batch/zip-extractor/_store/google/screenshots/04-done-1080x1920.jpg",
+   "C:/HEIC-batch/zip-extractor/_store/google/screenshots/05-pack-1080x1920.jpg",
+   "C:/HEIC-batch/zip-extractor/_store/google/screenshots/07-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/zip-extractor/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Tools",
+   "Tools"
+  ]
+ },
+ "pdf-sign": {
+  "name": "Stamp & Sign: PDF Signature",
+  "short": "Sign PDFs with your real stamp from a photo and your signature. Works offline",
+  "full": "Stamp & Sign puts your real stamp and signature on any PDF — contracts, invoices, forms, reports — right on your phone. Photograph the stamp on paper once: the app removes the paper and keeps the ink, with a transparent background. Then open a document and place it in two taps.\n\nWHAT IT DOES\n\nTurns a photo into a clean stamp. The app finds the ink by itself, removes the paper, shadows and background, and keeps the colour. No sliders. Works with photos from the camera, the gallery and screenshots.\nDraw a signature with your finger: three widths, three colours.\nKeeps them in My stamps and signatures — open the app and they are right there.\nTap a stamp and it lands on the page. Drag it into place, pull the corner to resize, tilt it like a real stamp.\nSaves a new file <name>_signed.pdf in Downloads / Stamp & Sign. The text of the document stays text; the original PDF is not changed.\nInk colour in one tap: as in the photo, blue, black or red.\n\nFREE, ALL OF IT\n\nAll stamps and signatures you need.\nAny number of documents.\nShare and save the signed PDF.\nNo watermark. Light and dark theme. 22 languages.\nNo ads. No account. No internet permission at all: nothing can leave the phone.\n\nALL INCLUDED\n\n• Every page or the last one — a 290-page report gets your stamp on every page in one tap, or the signature lands straight on the last page.\n• Date and name — today's date, your full name or any line next to the signature, placed and moved like a stamp.\n• Photo of a document → sign — the contract came on paper? Photograph its pages: they become one PDF right in the app, ready for your stamp and signature.\n• Many PDFs at once — the same stamp in the same place on every file.\n• Unlimited stamps and signatures.\nAlso included: send the result as one ZIP.\n\nNOT JUST CONTRACTS\n\nAny picture from your gallery can be a stamp: a logo, a PAID or COPY mark, a SALE tag. Put it on an invoice, a price list or a photo of a product — the photo becomes a PDF with your mark, ready to send or print.\n\nHOW IT WORKS\n\nAdd your stamp: take a photo, pick one from the gallery, or draw a signature.\nChoose a PDF, or share a PDF to the app from mail, a messenger or your file manager.\nTap the stamp, move it into place, tap Save PDF. Share the result or send it as a ZIP.\n\nBest results: a stamp on white paper, photographed from above in daylight.\n\nThis is an image of your stamp and signature on the page, like on paper. It is not a certificate-based digital signature.",
+  "len": 2450,
+  "flags": [
+   "Pro"
+  ],
+  "perms": [],
+  "pkg": "org.lokio.pdfsign",
+  "slug": "pdfsign",
+  "shots": [
+   "C:/HEIC-batch/pdf-sign/_store/huawei/screenshots/01-tasks-1080x2132.jpg",
+   "C:/HEIC-batch/pdf-sign/_store/google/screenshots/02-home-1080x1920.jpg",
+   "C:/HEIC-batch/pdf-sign/_store/google/screenshots/03-tap-1080x1920.jpg",
+   "C:/HEIC-batch/pdf-sign/_store/google/screenshots/04-ink-1080x1920.jpg",
+   "C:/HEIC-batch/pdf-sign/_store/google/screenshots/05-all-1080x1920.jpg",
+   "C:/HEIC-batch/pdf-sign/_store/google/screenshots/06-date-1080x1920.jpg",
+   "C:/HEIC-batch/pdf-sign/_store/google/screenshots/07-sale-1080x1920.jpg",
+   "C:/HEIC-batch/pdf-sign/_store/google/screenshots/08-langs-1080x1920.jpg"
+  ],
+  "icon": "C:/HEIC-batch/pdf-sign/_store/google/icon-512.png",
+  "big": 0,
+  "items": [
+   [
+    "User content",
+    "Image or video"
+   ],
+   [
+    "User content",
+    "Other user content"
+   ]
+  ],
+  "cat": [
+   "Business",
+   "Business software"
+  ]
+ }
+}
