@@ -13,7 +13,7 @@
 
 <h1>Privacy Policy</h1>
 <p class="date">Unlock PDF &middot; last updated 21 November 2026</p>
-<p class="date" data-ident>This policy covers the Android app <b>Unlock PDF: Remove Password</b> (org.lokio.unlock) on Google Play. Developer: <b>LOKIO Apps</b>. Legal entity: VERTEX INT LLC (Tashkent, Uzbekistan).</p>
+<p class="date" data-ident>This policy covers the Android app <b>Unlock PDF: Remove Password</b> (org.lokio.unlock) on Google Play and the iPhone app <b>Unlock PDF: Remove Password</b> (org.lokio.unlock) on the App Store. Developer: <b>LOKIO Apps</b>. Legal entity: VERTEX INT LLC (Tashkent, Uzbekistan).</p>
 
 <p>The app removes, sets and changes PDF passwords right on your phone. Your documents and passwords are never uploaded and never seen by us. The free version shows ads; Pro removes them.</p>
 
@@ -21,22 +21,22 @@
 <p>Nothing ourselves: no accounts, no analytics of our own, no crash reports, no server. In the free version, the ad SDKs of Google AdMob and Yandex Ads collect data to show ads (see Ads below). With Pro there are no ads and no ad requests.</p>
 
 <h2>Ads (free version)</h2>
-<p>The free version shows a short ad for each result. Ads come from Google AdMob and, when Google has no ad to show, from Yandex Ads (Yandex Mobile Ads SDK with AppMetrica). To show and measure ads, these SDKs may collect the Android advertising ID, device and app information, approximate location from the IP address and your interactions with ads.</p>
-<p>In the EEA, the UK and Switzerland the app first asks for consent through Google&rsquo;s consent form; you can change it later in the menu (&ldquo;Ad privacy settings&rdquo;). You can reset or delete the advertising ID in Android settings. Policies: Google &mdash; <a href="https://policies.google.com/technologies/partner-sites">policies.google.com/technologies/partner-sites</a>; Yandex &mdash; <a href="https://yandex.com/legal/confidential/">yandex.com/legal/confidential</a>.</p>
+<p>The free version shows a short ad for each result. Ads come from Google AdMob and, when Google has no ad to show, from Yandex Ads (Yandex Mobile Ads SDK with AppMetrica). To show and measure ads, these SDKs may collect the advertising ID (Android advertising ID or, on iPhone, the IDFA if you allow tracking), device and app information, approximate location from the IP address and your interactions with ads.</p>
+<p>On iPhone the app asks for permission to track before ads are personalised; if you decline, ads are not personalised. In the EEA, the UK and Switzerland the app first asks for consent through Google&rsquo;s consent form; you can change it later in the menu (&ldquo;Ad privacy settings&rdquo;). You can reset or delete the advertising ID in Android settings, or turn tracking off in iPhone Settings &rarr; Privacy &amp; Security &rarr; Tracking. Policies: Google &mdash; <a href="https://policies.google.com/technologies/partner-sites">policies.google.com/technologies/partner-sites</a>; Yandex &mdash; <a href="https://yandex.com/legal/confidential/">yandex.com/legal/confidential</a>.</p>
 
 <h2>Internet</h2>
-<p>The internet is used only to load ads in the free version and for purchases through Google Play. Your documents and passwords are never sent.</p>
+<p>The internet is used only to load ads in the free version and for purchases through Google Play or the App Store. Your documents and passwords are never sent.</p>
 
 <h2>Your files</h2>
-<p>A file is read only when you pick it or share it to the app. Working copies are kept in the app&rsquo;s temporary storage, which Android clears. Ready PDFs go to Downloads / Unlock PDF and stay yours. Your original file is never changed. Deleting the app deletes its temporary files.</p>
+<p>A file is read only when you pick it or share it to the app. Working copies are kept in the app&rsquo;s temporary storage, which Android clears. Ready PDFs go to Downloads / Unlock PDF and stay yours. On iPhone, PDFs come from the Files picker or from &ldquo;Open in Unlock PDF&rdquo; in another app, and ready PDFs go to Files &rarr; On My iPhone &rarr; Unlock PDF. Your original file is never changed. Deleting the app deletes its temporary files.</p>
 
 <h2>Your passwords</h2>
-<p>A password you type is used once on the phone and then forgotten. It is kept only if you turn on &laquo;Remember&raquo;: then it is encrypted with a key held in the Android Keystore and stored inside the app. You see and delete remembered passwords in &laquo;My passwords&raquo;. Deleting the app deletes them. They are never sent anywhere and never included in backups.</p>
-<p>To notice that you type the same password again &mdash; and offer &laquo;Remember&raquo; at that moment &mdash; the app keeps only a fingerprint of a typed password: a keyed hash (HMAC-SHA256) made with a key held in the Android Keystore. The password itself is not kept and cannot be recovered from the fingerprint. Up to 50 recent fingerprints stay inside the app; deleting the app deletes them; they are never sent anywhere and never included in backups.</p>
+<p>A password you type is used once on the phone and then forgotten. It is kept only if you turn on &laquo;Remember&raquo;: then it is encrypted with a key held in the Android Keystore and stored inside the app; on iPhone it is stored in the iOS Keychain, only on this device (it is not synced to iCloud). You see and delete remembered passwords in &laquo;My passwords&raquo;. Deleting the app deletes them. They are never sent anywhere and never included in backups.</p>
+<p>To notice that you type the same password again &mdash; and offer &laquo;Remember&raquo; at that moment &mdash; the app keeps only a fingerprint of a typed password: a keyed hash (HMAC-SHA256) made with a key held in the Android Keystore (on iPhone, in the iOS Keychain). The password itself is not kept and cannot be recovered from the fingerprint. Up to 50 recent fingerprints stay inside the app; deleting the app deletes them; they are never sent anywhere and never included in backups.</p>
 
 <h2>Permissions</h2>
 <ul>
-  <li><b>Files</b> &mdash; no file permission: you pick files in the Android window, and only those files are read.</li>
+  <li><b>Files</b> &mdash; no file permission: you pick files in the Android or iPhone window, and only those files are read.</li>
   <li><b>Internet</b> &mdash; only for ads in the free version and Google Play purchases. Your files are never sent.</li>
 </ul>
 
@@ -45,12 +45,13 @@
 
 <h2>Settings</h2>
 <p>Your settings, theme and language are stored only inside the app. Android backup is turned off for the app.</p>
+<p>On iPhone, settings stay inside the app; remembered passwords and fingerprint keys are kept in the Keychain only on this device.</p>
 
 <h2>Purchases</h2>
-<p>Every feature is free: a short ad plays for each result. Pro removes all ads &mdash; a monthly or yearly subscription or a one-time purchase. Optional tips are one-off purchases that unlock nothing. Payment is handled by Google Play; we never see your payment details. Subscriptions renew automatically unless cancelled; manage or cancel them in Google Play &rarr; Subscriptions.</p>
+<p>Every feature is free: a short ad plays for each result. Pro removes all ads &mdash; a monthly or yearly subscription or a one-time purchase. Optional tips are one-off purchases that unlock nothing. Payment is handled by Google Play or the App Store; we never see your payment details. Subscriptions renew automatically unless cancelled; manage or cancel them in Google Play &rarr; Subscriptions or in your Apple Account &rarr; Subscriptions.</p>
 
 <h2>Third parties</h2>
-<p>Google Play Billing and the Google Play rating window, through the Google Play app. Google AdMob with Google&rsquo;s consent form (UMP) and Yandex Mobile Ads with AppMetrica &mdash; only in the free version, to show ads. No other trackers or analytics SDKs.</p>
+<p>Google Play Billing and the Google Play rating window on Android; App Store purchases and the App Store rating window on iPhone. Google AdMob with Google&rsquo;s consent form (UMP) and Yandex Mobile Ads with AppMetrica &mdash; only in the free version, to show ads. No other trackers or analytics SDKs.</p>
 
 <h2>Children</h2>
 <p>The app is not directed at children under 13.</p>
@@ -63,7 +64,7 @@
 
 <h1 id="ru">Политика конфиденциальности</h1>
 <p class="date">Снять пароль PDF &middot; обновлено 21 ноября 2026</p>
-<p class="date" data-ident>Политика относится к Android-приложению <b>Unlock PDF: Remove Password</b> (org.lokio.unlock) в Google Play. Разработчик: <b>LOKIO Apps</b>. Юридическое лицо: ООО «VERTEX INT» (Ташкент, Узбекистан).</p>
+<p class="date" data-ident>Политика относится к Android-приложению <b>Unlock PDF: Remove Password</b> (org.lokio.unlock) в Google Play и iPhone-приложению <b>Unlock PDF: Remove Password</b> (org.lokio.unlock) в App Store. Разработчик: <b>LOKIO Apps</b>. Юридическое лицо: ООО «VERTEX INT» (Ташкент, Узбекистан).</p>
 
 <p>Приложение снимает, ставит и меняет пароли PDF прямо на телефоне. Документы и пароли никуда не загружаются, и мы их не видим. В бесплатной версии есть реклама; Pro её убирает.</p>
 
@@ -71,22 +72,22 @@
 <p>Сами — ничего: ни аккаунтов, ни своей аналитики, ни отчётов о сбоях, ни сервера. В бесплатной версии рекламные SDK Google AdMob и Яндекс Рекламы собирают данные для показа рекламы (см. «Реклама»). С Pro рекламы и рекламных запросов нет.</p>
 
 <h2>Реклама (бесплатная версия)</h2>
-<p>В бесплатной версии за каждый результат показывается короткая реклама. Её дают Google AdMob и, когда у Google нет рекламы, Яндекс Реклама (Yandex Mobile Ads SDK с AppMetrica). Для показа и учёта рекламы эти SDK могут собирать рекламный ID Android, сведения об устройстве и приложении, примерную геопозицию по IP-адресу и действия с рекламой.</p>
-<p>В ЕЭЗ, Великобритании и Швейцарии приложение сначала спрашивает согласие через форму Google; изменить его можно в меню («Настройки рекламы»). Рекламный ID можно сбросить или удалить в настройках Android. Политики: Google &mdash; <a href="https://policies.google.com/technologies/partner-sites">policies.google.com/technologies/partner-sites</a>; Яндекс &mdash; <a href="https://yandex.ru/legal/confidential/">yandex.ru/legal/confidential</a>.</p>
+<p>В бесплатной версии за каждый результат показывается короткая реклама. Её дают Google AdMob и, когда у Google нет рекламы, Яндекс Реклама (Yandex Mobile Ads SDK с AppMetrica). Для показа и учёта рекламы эти SDK могут собирать рекламный ID (рекламный ID Android или, на iPhone, IDFA, если вы разрешили отслеживание), сведения об устройстве и приложении, примерную геопозицию по IP-адресу и действия с рекламой.</p>
+<p>На iPhone приложение спрашивает разрешение на отслеживание до персонализации рекламы; если отказаться, реклама не персонализируется. В ЕЭЗ, Великобритании и Швейцарии приложение сначала спрашивает согласие через форму Google; изменить его можно в меню («Настройки рекламы»). Рекламный ID можно сбросить или удалить в настройках Android, а отслеживание выключить в «Настройки» iPhone &rarr; «Конфиденциальность и безопасность» &rarr; «Отслеживание». Политики: Google &mdash; <a href="https://policies.google.com/technologies/partner-sites">policies.google.com/technologies/partner-sites</a>; Яндекс &mdash; <a href="https://yandex.ru/legal/confidential/">yandex.ru/legal/confidential</a>.</p>
 
 <h2>Интернет</h2>
-<p>Интернет нужен только для рекламы в бесплатной версии и для покупок через Google Play. Документы и пароли никогда не отправляются.</p>
+<p>Интернет нужен только для рекламы в бесплатной версии и для покупок через Google Play или App Store. Документы и пароли никогда не отправляются.</p>
 
 <h2>Ваши файлы</h2>
-<p>Файл читается, только когда вы его выбрали или отправили в приложение через «Поделиться». Рабочие копии хранятся во временной памяти приложения, её очищает Android. Готовые PDF лежат в «Загрузки / Unlock PDF» и остаются вашими. Исходный файл не меняется. Удалили приложение — удалились и его временные файлы.</p>
+<p>Файл читается, только когда вы его выбрали или отправили в приложение через «Поделиться». Рабочие копии хранятся во временной памяти приложения, её очищает Android. Готовые PDF лежат в «Загрузки / Unlock PDF» и остаются вашими. На iPhone PDF берутся из окна «Файлов» или через «Открыть в Unlock PDF» из другого приложения, а готовые PDF лежат в «Файлы» &rarr; «На iPhone» &rarr; Unlock PDF. Исходный файл не меняется. Удалили приложение — удалились и его временные файлы.</p>
 
 <h2>Ваши пароли</h2>
-<p>Введённый пароль используется один раз на телефоне и забывается. Он сохраняется, только если вы включили «Запомнить»: тогда он шифруется ключом из хранилища ключей Android (Keystore) и лежит внутри приложения. Запомненные пароли видны и удаляются в «Мои пароли». Удалили приложение — удалились и они. Они никуда не отправляются и не попадают в резервные копии.</p>
-<p>Чтобы заметить, что вы вводите тот же пароль снова, и в этот момент предложить «Запомнить», приложение хранит только отпечаток введённого пароля: хэш с ключом (HMAC-SHA256), ключ лежит в хранилище ключей Android (Keystore). Сам пароль не хранится, и восстановить его по отпечатку нельзя. Внутри приложения лежит до 50 последних отпечатков; удалили приложение — удалились и они; они никуда не отправляются и не попадают в резервные копии.</p>
+<p>Введённый пароль используется один раз на телефоне и забывается. Он сохраняется, только если вы включили «Запомнить»: тогда он шифруется ключом из хранилища ключей Android (Keystore) и лежит внутри приложения; на iPhone — в связке ключей iOS, только на этом устройстве (в iCloud не синхронизируется). Запомненные пароли видны и удаляются в «Мои пароли». Удалили приложение — удалились и они. Они никуда не отправляются и не попадают в резервные копии.</p>
+<p>Чтобы заметить, что вы вводите тот же пароль снова, и в этот момент предложить «Запомнить», приложение хранит только отпечаток введённого пароля: хэш с ключом (HMAC-SHA256), ключ лежит в хранилище ключей Android (Keystore), на iPhone — в связке ключей iOS. Сам пароль не хранится, и восстановить его по отпечатку нельзя. Внутри приложения лежит до 50 последних отпечатков; удалили приложение — удалились и они; они никуда не отправляются и не попадают в резервные копии.</p>
 
 <h2>Разрешения</h2>
 <ul>
-  <li><b>Файлы</b> &mdash; разрешения на файлы нет: вы выбираете файлы в окне Android, и читаются только они.</li>
+  <li><b>Файлы</b> &mdash; разрешения на файлы нет: вы выбираете файлы в окне Android или iPhone, и читаются только они.</li>
   <li><b>Интернет</b> &mdash; только для рекламы в бесплатной версии и покупок в Google Play. Файлы никогда не отправляются.</li>
 </ul>
 
@@ -95,12 +96,13 @@
 
 <h2>Настройки</h2>
 <p>Настройки, тема и язык хранятся только внутри приложения. Резервное копирование Android для приложения выключено.</p>
+<p>На iPhone настройки остаются внутри приложения; запомненные пароли и ключи отпечатков хранятся в связке ключей только на этом устройстве.</p>
 
 <h2>Покупки</h2>
-<p>Все функции бесплатны: за каждый результат — короткая реклама. Pro убирает всю рекламу — подписка на месяц или год либо разовая покупка. Чаевые по желанию — разовые покупки, ничего не открывают. Оплату проводит Google Play; платёжных данных мы не видим. Подписка продлевается автоматически, если её не отменить; управлять и отменять — в Google Play &rarr; Подписки.</p>
+<p>Все функции бесплатны: за каждый результат — короткая реклама. Pro убирает всю рекламу — подписка на месяц или год либо разовая покупка. Чаевые по желанию — разовые покупки, ничего не открывают. Оплату проводит Google Play или App Store; платёжных данных мы не видим. Подписка продлевается автоматически, если её не отменить; управлять и отменять — в Google Play &rarr; Подписки или в Apple Account &rarr; Подписки.</p>
 
 <h2>Третьи стороны</h2>
-<p>Google Play Billing и окно оценки Google Play, через приложение Google Play. Google AdMob с формой согласия Google (UMP) и Yandex Mobile Ads с AppMetrica &mdash; только в бесплатной версии, для рекламы. Других трекеров и аналитических SDK нет.</p>
+<p>Google Play Billing и окно оценки Google Play на Android; покупки и окно оценки App Store на iPhone. Google AdMob с формой согласия Google (UMP) и Yandex Mobile Ads с AppMetrica &mdash; только в бесплатной версии, для рекламы. Других трекеров и аналитических SDK нет.</p>
 
 <h2>Дети</h2>
 <p>Приложение не предназначено для детей младше 13 лет.</p>
